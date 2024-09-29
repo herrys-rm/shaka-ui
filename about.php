@@ -19,12 +19,12 @@
                         <h1 class="display-1 mb-n2" data-toggle="counter-up">25</h1>
                     </div>
                     <div class="ps-4">
-                        <h3>Years</h3>
-                        <h3>Working</h3>
-                        <h3 class="mb-0">Experience</h3>
+                        <h3>Tahun</h3>
+                        <h3>Pengalaman</h3>
+                        <h3 class="mb-0">Kerja</h3>
                     </div>
                 </div>
-                <a class="btn btn-success py-3 px-5" href="">Read More</a>
+                <a class="btn btn-success py-3 px-5" href="tentang-selengkapnya.php">Selengkapnya</a>
             </div>
         </div>
     </div>
