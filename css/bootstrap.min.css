@@ -6771,6 +6771,9 @@ fieldset:disabled .btn {
 .text-light {
   color: #f8f8f8 !important;
 }
+.text-custom {
+  color: rgba(255, 255, 255, 0.6) !important;
+}
 .text-dark {
   color: #252525 !important;
 }

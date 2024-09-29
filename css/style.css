@@ -496,12 +496,17 @@ h6,
 }
 
 /*** Footer ***/
+.footer {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/footer-bg.jpg) top center no-repeat;
+  background-size: cover;
+}
+
 .footer .btn.btn-link {
   display: block;
   margin-bottom: 5px;
   padding: 0;
   text-align: left;
-  color: #777777;
+  color: rgba(255, 255, 255, 0.6);
   font-weight: normal;
   text-transform: capitalize;
   transition: 0.3s;
