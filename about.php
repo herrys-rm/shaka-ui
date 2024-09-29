@@ -8,12 +8,14 @@
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <h4 class="section-title">About Us</h4>
-                <h1 class="display-5 mb-4">A Creative Architecture Agency For Your Dream Home</h1>
-                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.</p>
+                <h4 class="section-title">Tentang Kami</h4>
+                <h1 class="display-5 mb-4">Syaka Design Konstruksi</h1>
+                <p>Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
+
+                </p>
+                <p class="mb-4">memberikan pelayanan yang total kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien.</p>
                 <div class="d-flex align-items-center mb-5">
-                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-primary" style="width: 120px; height: 120px;">
+                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-success" style="width: 120px; height: 120px;">
                         <h1 class="display-1 mb-n2" data-toggle="counter-up">25</h1>
                     </div>
                     <div class="ps-4">
@@ -22,7 +24,7 @@
                         <h3 class="mb-0">Experience</h3>
                     </div>
                 </div>
-                <a class="btn btn-primary py-3 px-5" href="">Read More</a>
+                <a class="btn btn-success py-3 px-5" href="">Read More</a>
             </div>
         </div>
     </div>
