@@ -47,12 +47,12 @@
 
 
     <!-- Navbar Start -->
-    <?php require_once 'topbar.php' ?>
+    <?php require_once 'navbar.php' ?>
     <!-- Navbar End -->
 
 
     <!-- Carousel Start -->
-    <?php require_once 'topbar.php' ?>
+    <?php require_once 'carousel.php' ?>
     <!-- Carousel End -->
 
 
