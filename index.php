@@ -60,13 +60,9 @@
 <!-- Facts End -->
 
 
-<!-- About Start -->
-<?php require_once 'features.php' ?>
-<!-- About End -->
-
-    <!-- Service Start -->
-    <?php require_once 'about.php' ?>
-    <!-- Service End -->
+<!-- Service Start -->
+<?php require_once 'about.php' ?>
+<!-- Service End -->
 
 
 <!-- Service Start -->

@@ -7,7 +7,7 @@
                 <div class="row g-4">
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/icon-2.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/consultation.png" alt="Icon">
                             <div class="ms-4">
                                 <h3>Konsultasi</h3>
                                 <p class="mb-0">Konsultasi pada kami terkait desain arsitek yang anda inginkan</p>
@@ -16,7 +16,7 @@
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/icon-3.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/pilih.png" alt="Icon">
                             <div class="ms-4">
                                 <h3>Pilih paket desain sesuai kebutuhan anda</h3>
                                 <p class="mb-0">tersedia paket basic,premium dan Gold</p>
@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/icon-4.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/pembayaran.png" alt="Icon">
                             <div class="ms-4">
                                 <h3>Pembayaran</h3>
                                 <p class="mb-0">Pembayaran Tahap 1 / DP (30%)</p>
@@ -36,7 +36,7 @@
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/icon-2.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
                             <div class="ms-4">
                                 <h3>Estimasi Waktu Pengerjaan</h3>
                                 <p class="mb-0">Denah : 1 - 7 Hari</p>
