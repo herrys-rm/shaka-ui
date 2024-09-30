@@ -22,6 +22,7 @@
                 <a class="btn btn-link" href="">Desain Villa</a>
                 <a class="btn btn-link" href="">Desain Store</a>
             </div>
+
             <div class="col-lg-4 col-md-6">
                 <h3 class="text-light mb-4">Tautan Cepat</h3>
                 <a class="btn btn-link" href="">Tentang Kami</a>

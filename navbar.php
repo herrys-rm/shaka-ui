@@ -10,6 +10,7 @@
             <a href="index.php" class="nav-item nav-link active">Home</a>
             <a href="about.php" class="nav-item nav-link">About</a>
             <a href="service.php" class="nav-item nav-link">Services</a>
+            <a href="paket-layanan.php" class="nav-item nav-link">Paket</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                 <div class="dropdown-menu border-0 m-0">
@@ -21,7 +22,7 @@
                     <a href="404.html" class="dropdown-item">404 Page</a>
                 </div>
             </div>
-            <a href="contact.html" class="nav-item nav-link">Contact</a>
+            <a href="contact.php" class="nav-item nav-link">Contact</a>
         </div>
         <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Hubungi Kami</a>
     </div>

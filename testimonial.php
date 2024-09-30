@@ -5,7 +5,7 @@
             <h1 class="display-5 mb-4">Thousands Of Customers Who Trust Us And Our Services</h1>
         </div>
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-1.jpg' alt=''>">
+            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/1.jpg' alt=''>">
                 <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
                 <h3>Client Name</h3>
                 <span class="text-primary">Profession</span>

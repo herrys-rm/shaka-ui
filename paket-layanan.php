@@ -43,141 +43,34 @@
     </div>
     <!-- Spinner End -->
 
-
-    <!-- Topbar Start -->
-    <?php require_once 'topbar.php' ?>
-    <!-- Topbar End -->
-
-
     <!-- Navbar Start -->
     <?php require_once 'navbar.php' ?>
     <!-- Navbar End -->
-
-
-    <!-- Page Header Start -->
-    <?php require_once 'header.php' ?>
-    <!-- Page Header End -->
-
-
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="about-img">
-                        <img class="img-fluid" src="img/6.jpg" alt="">
-                        <img class="img-fluid" src="img/about-2.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h4 class="section-title">Tentang Kami</h4>
-                    <h1 class="display-5 mb-4">Syaka Design Konstruksi</h1>
-                    <p>Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
-
-                    </p>
-                    <p class="mb-4">memberikan pelayanan yang total kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien.</p>
-                    <div class="d-flex align-items-center mb-5">
-                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-success" style="width: 120px; height: 120px;">
-                            <h1 class="display-1 mb-n2" data-toggle="counter-up">25</h1>
-                        </div>
-                        <div class="ps-4">
-                            <h3>Tahun</h3>
-                            <h3>Pengalaman</h3>
-                            <h3 class="mb-0">Kerja</h3>
-                        </div>
-                    </div>
-                    <a class="btn btn-success py-3 px-5" href="">Hubungi Kami</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
-
-    <!--  -->
-    <div class="container-xxl py-5">
-        <div class="fact">
-            <div class="container-fluid">
-                <div class="row counters">
-                    <div class="col-md-6 fact-left wow slideInLeft">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-worker"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">109</h2>
-                                    <p>Expert Workers</p>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-building"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">485</h2>
-                                    <p>Happy Clients</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 fact-right wow slideInRight">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-address"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">789</h2>
-                                    <p>Completed Projects</p>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-crane"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">890</h2>
-                                    <p>Running Projects</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--  -->
-
-    <!-- Page Header Start -->
-    <?php require_once 'visit.php' ?>
-    <!-- Page Header End -->
 
 
     <!-- Team Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Team Members</h4>
-                <h1 class="display-5 mb-4">We Are Creative Architecture Team For Your Dream Home</h1>
+                <h4 class="section-title">PAKET</h4>
+                <h1 class="display-5 mb-4">Layanan Yang Kami Tawarkan</h1>
             </div>
             <div class="row g-0 team-items">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative">
                         <div class="position-relative">
-                            <img class="img-fluid" src="img/team-1.jpg" alt="">
+                            <img class="img-fluid" src="img/basic.png" alt="">
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                                <a href="paket_basic.php" class="btn btn-success ">Peesan sekarang</a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
-                            <span class="text-primary">Designation</span>
+                            <a href="paket_basic.php" class="btn btn-danger ">Contoh paket basic</a>
+                            <a href="paket_basic.php" class="btn btn-success ">Peesan sekarang</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item position-relative">
                         <div class="position-relative">
                             <img class="img-fluid" src="img/team-2.jpg" alt="">
@@ -193,7 +86,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
                         <div class="position-relative">
                             <img class="img-fluid" src="img/team-3.jpg" alt="">
@@ -209,76 +102,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/team-4.jpg" alt="">
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
-                            <span class="text-primary">Designation</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Certifikat</h4>
-                <h1 class="display-5 mb-4">Semua Certifikat dan Penghargaan</h1>
-            </div>
-            <div class="row g-0 team-items">
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
-                            <span class="text-primary">Certifikat</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
-                            <span class="text-primary">Certifikat</span>
-                        </div>
-                    </div>
-                </div>
-
 
             </div>
         </div>
     </div>
     <!-- Team End -->
-
 
 
 
