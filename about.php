@@ -24,8 +24,7 @@
                         <h3 class="mb-0">Kerja</h3>
                     </div>
                 </div>
-                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Lakukan Pemesanan</a>
-                <a class="btn btn-success py-3 px-5" href="tentang-selengkapnya.php">Selengkapnya</a>
+                <a class="btn btn-success rounded-pill py-2 px-4" href="tentang-selengkapnya.php">Selengkapnya</a>
             </div>
         </div>
     </div>

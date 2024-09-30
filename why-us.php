@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-12">
                         <div class="ms-4">
-                            <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Lakukan Pemesanan</a>
+                            <a class="btn btn-success rounded-pill py-2 px-4" href="#">Lakukan Pemesanan</a>
                         </div>
                     </div>
                 </div>
