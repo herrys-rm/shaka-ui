@@ -245,14 +245,12 @@
                         <div class="position-relative">
                             <img class="img-fluid" src="img/1234.png" alt="">
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
                             <span class="text-primary">Certifikat</span>
+                            <h3 class="mt-2">Certifikat</h3>
+
                         </div>
                     </div>
                 </div>
@@ -261,14 +259,12 @@
                         <div class="position-relative">
                             <img class="img-fluid" src="img/1234.png" alt="">
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
-                            <h3 class="mt-2">Architect Name</h3>
-                            <span class="text-primary">Certifikat</span>
+                            <span class="text-primary">Penjelasans</span>
+                            <h3 class="mt-2">Certifikat</h3>
+
                         </div>
                     </div>
                 </div>
@@ -280,7 +276,9 @@
     <!-- Team End -->
 
 
-
+    <!-- Footer Start -->
+    <?php require_once 'footer.php' ?>
+    <!-- Footer End -->
 
 
     <!-- Footer Start -->
