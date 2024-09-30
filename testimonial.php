@@ -1,7 +1,14 @@
+<div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+  <!-- <h4 class="text-primary">Paket Harga</h4> -->
+  <h1 class="display-4 mb-4 text-primary">Testimoni</h1>
+  <p class="mb-0">Kami Telah Melakukan survei terhadap Para Pengunjung Kami Dan Mendapatakan Hasil
+  </p>
+</div>
+
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <div class="row">
+      <div class="row">
         <div class="col-4">
           <img src="img/testimonial-1.jpg" class="img-fluid" alt="testimonial 3">
         </div>
@@ -26,7 +33,7 @@
         </div>
       </div>
     </div>
-    
+
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

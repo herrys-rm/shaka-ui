@@ -2,9 +2,9 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-4 col-md-6">
-                <h3 class="text-light mb-4">Address</h3>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Telkomsel Tower 46</p>
-                <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+62 123 4567890</p>
+                <h3 class="text-light mb-4">Alamat</h3>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jl. Sawing no 2 Lotim</p>
+                <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+62 819-3214-8688</p>
                 <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>shakadesign@example.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-twitter"></i></a>
@@ -12,6 +12,14 @@
                     <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i></a>
                     <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <h3 class="text-light mb-4">Tautan Cepat</h3>
+                <a class="btn btn-link" href="">Beranda</a>
+                <a class="btn btn-link" href="">Tentang Kami</a>
+                <a class="btn btn-link" href="">Portofolio</a>
+                <a class="btn btn-link" href="">Contact</a>
+
             </div>
             <div class="col-lg-4 col-md-6">
                 <h3 class="text-light mb-4">Layanan</h3>
@@ -23,13 +31,7 @@
                 <a class="btn btn-link" href="">Desain Store</a>
             </div>
 
-            <div class="col-lg-4 col-md-6">
-                <h3 class="text-light mb-4">Tautan Cepat</h3>
-                <a class="btn btn-link" href="">Tentang Kami</a>
-                <a class="btn btn-link" href="">Dukungan</a>
-                <a class="btn btn-link" href="">Layanan</a>
 
-            </div>
 
         </div>
     </div>
