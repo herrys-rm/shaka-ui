@@ -86,7 +86,7 @@
                             <h3 class="mb-0">Kerja</h3>
                         </div>
                     </div>
-                    <a class="btn btn-success py-3 px-5" href="">Hubungi Kami</a>
+                    <a class="btn btn-success py-3 px-5" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                 </div>
             </div>
         </div>
@@ -269,7 +269,36 @@
                     </div>
                 </div>
 
+            </div>
+            <div class="row g-0 team-items">
+                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/1234.png" alt="">
+                            <div class="team-social text-center">
+                            </div>
+                        </div>
+                        <div class="bg-light text-center p-4">
+                            <span class="text-primary">Certifikat</span>
+                            <h3 class="mt-2">Certifikat</h3>
 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item position-relative">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/1234.png" alt="">
+                            <div class="team-social text-center">
+                            </div>
+                        </div>
+                        <div class="bg-light text-center p-4">
+                            <span class="text-primary">Penjelasans</span>
+                            <h3 class="mt-2">Certifikat</h3>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

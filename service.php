@@ -45,7 +45,7 @@
                         <img class="mb-4" src="img/icons/interior21.png" alt="Icon">
                         <h3 class="mb-3">Desain Interior</h3>
                         <p class="mb-4">Interior Rumah Anda Membosankan, Kami Solusinya</p>
-                        <a class="btn" href="https://www.youtube.com/watch?v=Gbx7tQ-XY4s&ab_channel=SYAKAKONSTRUKSI"><i class="fa fa-plus text-primary me-3"></i>Detail</a>
+                        <a class="btn" href="https://www.instagram.com/syakadesign21/"><i class="fa fa-plus text-primary me-3"></i>Detail</a>
                     </div>
                 </div>
             </div>
