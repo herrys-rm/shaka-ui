@@ -30,6 +30,16 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        .carousel-item {
+            height: 500px; /* Atur tinggi sesuai kebutuhan */
+        }
+        .carousel-item img {
+            height: 100%;
+            object-fit: cover; /* Agar gambar mengisi area dengan baik */
+        }
+        </style>
 </head>
 
 <!-- Spinner Start -->

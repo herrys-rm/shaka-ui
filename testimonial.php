@@ -1,25 +1,39 @@
-<div class="container-xxl py-5">
-    <div class="container">
-        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h4 class="section-title">Testimonial</h4>
-            <h1 class="display-5 mb-4">Thousands Of Customers Who Trust Us And Our Services</h1>
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+    <div class="row">
+        <div class="col-4">
+          <img src="img/testimonial-1.jpg" class="img-fluid" alt="testimonial 3">
         </div>
-        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/1.jpg' alt=''>">
-                <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                <h3>Client Name</h3>
-                <span class="text-primary">Profession</span>
-            </div>
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-2.jpg' alt=''>">
-                <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                <h3>Client Name</h3>
-                <span class="text-primary">Profession</span>
-            </div>
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-3.jpg' alt=''>">
-                <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.</p>
-                <h3>Client Name</h3>
-                <span class="text-primary">Profession</span>
-            </div>
+        <div class="col-4">
+          <img src="img/testimonial-2.jpg" class="img-fluid" alt="Testimonial 4">
         </div>
+        <div class="col-4">
+          <img src="img/testimonial-3.jpg" class="img-fluid" alt="Testimonial 4">
+        </div>
+      </div>
     </div>
+    <div class="carousel-item">
+      <div class="row">
+        <div class="col-4">
+          <img src="img/testimonial-4.jpg" class="img-fluid" alt="testimonial 3">
+        </div>
+        <div class="col-4">
+          <img src="img/testimonial-5.jpg" class="img-fluid" alt="Testimonial 4">
+        </div>
+        <div class="col-4">
+          <img src="img/testimonial-6.jpg" class="img-fluid" alt="Testimonial 4">
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
