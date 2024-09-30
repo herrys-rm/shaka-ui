@@ -39,6 +39,15 @@
             height: 100%;
             object-fit: cover; /* Agar gambar mengisi area dengan baik */
         }
+
+        .list-group-item {
+        position: relative;
+        display: block;
+        padding: 0.5rem 1rem;
+        color: #212529;
+        border: 1px solid rgba(0, 0, 0, 0.125);
+        background: none !important;
+        }
         </style>
 </head>
 

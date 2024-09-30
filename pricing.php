@@ -10,73 +10,69 @@
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
 				<div class="features-item p-4 pt-0">
 					<div class="features-icon p-4 mb-4">
-
 						<i class="fa fa-star fa-3x"></i>
 					</div>
 					<h4 class="mb-4">Paket Basic</h4>
+					<p class="fs-1 fw-semibold"><sup>Rp</sup>35.000/m²<span></span></p>
 					<p class="mb-4">
-					<h1><sup>Rp</sup>35.000/m²<span></span></h1>
-
-					<li><i class="bi bi-check"></i> <span>Perencanaan Denah</span></li>
-					<li><i class="bi bi-check"></i> <span>Visual Desain</span></li>
-					<li><i class="bi bi-check"></i> <span>3D eksterior + Rendering </span></li>
-					<li><i class="bi bi-check"></i> <span>Gambar Kerja (Denah, Tampak Potongan dan
-							Detail)</span></li>
-					<li><i class="bi bi-check"></i> <span>Print Out Gambar Detail dan Desain</span></li>
-					<li><i class="bi bi-check"></i> <span>Fail PDF. </span></li>
-
-
+					<ul class="list-group list-group-flush">
+					<li class="list-group-item">Perencanaan Denah</li>
+					<li class="list-group-item">Visual Desain</li>
+					<li class="list-group-item">3D eksterior + Rendering</li>
+					<li class="list-group-item">Gambar Kerja (Denah, Tampak Potongan dan
+					Detail)</li>
+					<li class="list-group-item">Print Out Gambar Detail dan Desain</li>
+					<li class="list-group-item">Fail PDF.</li>
+					</ul>
+				
 					</p>
-
-
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
 					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
 				</div>
 			</div>
-			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
-				<div class="features-item p-4 pt-0">
-					<div class="features-icon p-4 mb-4">
-						<i class="fa fa-star fa-3x"></i>
-					</div>
-					<h4 class="mb-4">Paket Premium</h4>
-					<p class="mb-4">
-					<h1><sup>Rp</sup>65.000/m²<span></span></h1>
-					<li><i class="bi bi-check"></i> <span>Perencanaan Denah</span></li>
-					<li><i class="bi bi-check"></i> <span>Visual Desain</span></li>
-					<li><i class="bi bi-check"></i> <span>3D eksterior + Rendering </span></li>
-					<li><i class="bi bi-check"></i> <span>DED (Denah, Tampak,Potongsn 5 buah detail langkap,
-							Detail pembesian Struktur, Denah Struktur dan Finishing) </span></li>
-					<li><i class="bi bi-check"></i> <span>Desain Interior & Rendering</span></li>
-					<li><i class="bi bi-check"></i> <span>RAB</span></li>
-					<li><i class="bi bi-check"></i> <span>Fail PDF. </span></li>
-					<li><i class="bi bi-check"></i> <span>Print Out Gambar Detail dan Desain</span></li>
-					</li>
-					</p>
-					<a class="btn btn-primary rounded-pill py-2 px-4" href="paket_premium.php">Pesan</a>
-					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.8s">
+			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
 				<div class="features-item p-4 pt-0">
 					<div class="features-icon p-4 mb-4">
 						<i class="fa fa-star fa-3x"></i>
 					</div>
 					<h4 class="mb-4">Paket Gold</h4>
+					<p class="fs-1 fw-semibold"><sup>Rp</sup>35.000/m²<span></span></p>
 					<p class="mb-4">
+					<ul class="list-group list-group-flush">
+					<li class="list-group-item">Perencanaan Denah</li>
+					<li class="list-group-item">Visual Desain</li>
+					<li class="list-group-item">3D eksterior + Rendering</li>
+					<li class="list-group-item">Gambar Kerja (Denah, Tampak Potongan dan
+					Detail)</li>
+					<li class="list-group-item">Print Out Gambar Detail dan Desain</li>
+					<li class="list-group-item">Fail PDF.</li>
+					</ul>
+				
 					</p>
-					<h4 class="mb-0">Perencanaan Denah</h4>
-					<h4 class="mb-0">Visual Desain</h4>
-					<h4 class="mb-0">3D eksterior + Rendering</h4>
-					<h4 class="mb-0">DED (Denah, Tampak,Potongsn 5 buah detail langkap,
-						Detail pembesian Struktur, Denah Struktur dan Finishing)</h4>
-					<h4 class="mb-0">Desain Interior & Rendering</h4>
-					<h4 class="mb-0">RAB</h4>
-					<h4 class="mb-0">Video Interior Semua Ruangan</h4>
-					<h4 class="mb-0">Video Eksterior</h4>
-					<h4 class="mb-0">Print Our Gambar Detai dan Desain</h4>
-					<h4 class="mb-0">Fail PDF</h4>
-
-					<a class="btn btn-primary rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
+					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
+					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
+				<div class="features-item p-4 pt-0">
+					<div class="features-icon p-4 mb-4">
+						<i class="fa fa-star fa-3x"></i>
+					</div>
+					<h4 class="mb-4">Paket Premium</h4>
+					<p class="fs-1 fw-semibold"><sup>Rp</sup>35.000/m²<span></span></p>
+					<p class="mb-4">
+					<ul class="list-group list-group-flush">
+					<li class="list-group-item">Perencanaan Denah</li>
+					<li class="list-group-item">Visual Desain</li>
+					<li class="list-group-item">3D eksterior + Rendering</li>
+					<li class="list-group-item">Gambar Kerja (Denah, Tampak Potongan dan
+					Detail)</li>
+					<li class="list-group-item">Print Out Gambar Detail dan Desain</li>
+					<li class="list-group-item">Fail PDF.</li>
+					</ul>
+				
+					</p>
+					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
 					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
 				</div>
 			</div>
