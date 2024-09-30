@@ -77,9 +77,9 @@
             <h1 class="display-1 text-white animated slideInDown">Contact Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb text-uppercase mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Contact Us</li>
+                    <li class="breadcrumb-item"><a class="text-white" href="index.php">Beranda</a></li>
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Pesan </a></li>
+                    <li class="breadcrumb-item text-primary active" aria-current="page">Contact</li>
                 </ol>
             </nav>
         </div>
@@ -91,8 +91,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Contact Us</h4>
-                <h1 class="display-5 mb-4">If You Have Any Query, Please Feel Free Contact Us</h1>
+                <h4 class="section-title">Contact Kami</h4>
+                <h1 class="display-5 mb-4">Jika Anda Tertarik Dengan layanan Kami, Silahkan Hubungi Kami</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">

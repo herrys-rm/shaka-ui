@@ -9,72 +9,69 @@
                         <div class="d-flex align-items-start">
                             <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h2>Tahap negosiasi harga (sampai deal)</h2>
+                                <h3>Tahap Negosiasi Harga (Sampai Deal)</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/pilih.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
                                 <h3>Tahap Pengukuran Lokasi</h3>
-                                <p class="mb-0">tersedia paket basic,premium dan Gold</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/pembayaran.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Pembayaran DP sebesar 30% dari nilai kontrak</h3>
-
-                                <p class="mb-0">Pelunasan (100%)</p>
+                                <h3>Pembayaran DP Sebesar 30% Dari Nilai Kontrak</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Tahap konsep desain bangunan </h3>
-                                <p class="mb-0">Denah : 1 - 7 Hari</p>
+                                <h3>Tahap Konsp Desain Bangunan</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Tahap konsep desain bangunan </h3>
-                                <p class="mb-0">Denah : 1 - 7 Hari</p>
+                                <h3>Presentasi secara Langsung (online & offline)</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Tahap konsep desain bangunan </h3>
-                                <p class="mb-0">Denah : 1 - 7 Hari</p>
+                                <h3>Pembayaran Tahap 2 Sebesar 30% (Setelah konsep Deal)</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Tahap konsep desain bangunan </h3>
-                                <p class="mb-0">Denah : 1 - 7 Hari</p>
+                                <h3>Gambar DED dan Kelengkapan </h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="d-flex align-items-start">
-                            <img class="flex-shrink-0" src="img/icons/time.png" alt="Icon">
+                            <img class="flex-shrink-0" src="img/icons/12.png" alt="Icon">
                             <div class="ms-4">
-                                <h3>Tahap konsep desain bangunan </h3>
-                                <p class="mb-0">Denah : 1 - 7 Hari</p>
+                                <h3>Serah Terima Desain (Hard Copy, Soft Copy) & Pelunasan</h3>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="ms-4">
+                            <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Lakukan Pemesanan</a>
                         </div>
                     </div>
                 </div>
