@@ -60,14 +60,17 @@
       <h1 class="display-1 text-white animated slideInDown">Portofolio</h1>
       <nav aria-label="breadcrumb animated slideInDown">
         <ol class="breadcrumb text-uppercase mb-0">
-          <li class="breadcrumb-item"><a class="text-white" href="#">Beranda</a></li>
-          <li class="breadcrumb-item"><a class="text-white" href="#">Halaman</a></li>
+          <li class="breadcrumb-item"><a class="text-white" href="index.php">Beranda</a></li>
           <li class="breadcrumb-item text-primary active" aria-current="page">Portofolio</li>
         </ol>
       </nav>
+
     </div>
   </div>
   <!-- Page Header End -->
+  <marquee direction="right">
+    <h3>HUBUNGI KAMI!!!! -></h3>
+  </marquee>
 
   <!-- portofolio -->
   <section id="projects" class="projects">

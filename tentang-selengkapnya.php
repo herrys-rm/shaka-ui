@@ -91,8 +91,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h4 class="section-title">Tentang Kami</h4>
-                    <h1 class="display-5 mb-4">Syaka Design Konstruksi</h1>
+                    <h4>Tentang Kami</h4>
+                    <h3 class="display-4 mb-4 text-primary">Syaka Design Konstruksi</h3>
                     <p>Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
 
                     </p>
@@ -128,7 +128,7 @@
                                 </div>
                                 <div class="fact-text">
                                     <h2 data-toggle="counter-up">109</h2>
-                                    <p>Expert Workers</p>
+                                    <p>Para Pekerja Kami </p>
                                 </div>
                             </div>
                             <div class="col-6">
@@ -136,8 +136,8 @@
                                     <i class="flaticon-building"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">485</h2>
-                                    <p>Happy Clients</p>
+                                    <h2 data-toggle="counter-up">980</h2>
+                                    <p>Clients</p>
                                 </div>
                             </div>
                         </div>
