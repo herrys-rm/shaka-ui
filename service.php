@@ -1,8 +1,9 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h4 class="section-title">Services</h4>
-            <h1 class="display-5 mb-4">Service yang kami tawarkan</h1>
+            <h1 class="display-4 mb-4 text-primary">Service</h1>
+            <p class="mb-0">Service yang kami tawarkan untuk memberikan kepuasan kepada anda
+            </p>
         </div>
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

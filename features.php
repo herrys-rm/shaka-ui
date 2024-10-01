@@ -7,7 +7,7 @@
                         <img src="img/icons/location.png" alt="Icon">
                     </div>
                     <h3 class="mb-3">Jawa</h3>
-                    <p class="mb-0">JL.Cempaka,no 12 jakarta Timur</p>
+                    <p class="mb-0">JL.H. Bokir bin Dji'un (menggantikan Jalan Raya Pondok Gede segmen Kelurahan Pinang Ranti dan Kelurahan Dukuh, Jakarta Timur) </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">

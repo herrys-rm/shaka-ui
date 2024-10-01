@@ -90,8 +90,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Contact Kami</h4>
-                <h1 class="display-5 mb-4">Jika Anda Tertarik Dengan layanan Kami, Silahkan Hubungi Kami</h1>
+                <h1 class="display-4 mb-4 text-primary">Contact Kami</h1>
+                <p class="mb-0">Jika Anda Tertarik Dengan layanan Kami, Silahkan Hubungi Kami</p>
             </div>
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">

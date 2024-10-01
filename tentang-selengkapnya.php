@@ -99,7 +99,7 @@
                     <p class="mb-4">memberikan pelayanan yang total kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien.</p>
                     <div class="d-flex align-items-center mb-5">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-success" style="width: 120px; height: 120px;">
-                            <h1 class="display-1 mb-n2" data-toggle="counter-up">25</h1>
+                            <h1 class="display-1 mb-n2" data-toggle="counter-up">5</h1>
                         </div>
                         <div class="ps-4">
                             <h3>Tahun</h3>
@@ -179,8 +179,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Team Members</h4>
-                <h1 class="display-5 mb-4">We Are Creative Architecture Team For Your Dream Home</h1>
+                <h1 class="display-4 mb-4 text-primary">Team Perusahaan</h1>
+                <p class="mb-0">Berikut adalah daftar team yang akan mengerjakan disain anda sesuai dengan permintaan anda</p>
             </div>
             <div class="row g-0 team-items">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -258,8 +258,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h4 class="section-title">Certifikat</h4>
-                <h1 class="display-5 mb-4">Semua Certifikat dan Penghargaan</h1>
+                <h1 class="display-4 mb-4 text-primary">Certifikat</h1>
+                <p class="mb-0">Semua Certifikat dan Penghargaan</p>
             </div>
             <div class="row g-0 team-items">
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
