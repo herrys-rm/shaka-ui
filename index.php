@@ -33,22 +33,25 @@
 
     <style>
         .carousel-item {
-            height: 500px; /* Atur tinggi sesuai kebutuhan */
+            height: 500px;
+            /* Atur tinggi sesuai kebutuhan */
         }
+
         .carousel-item img {
             height: 100%;
-            object-fit: cover; /* Agar gambar mengisi area dengan baik */
+            object-fit: cover;
+            /* Agar gambar mengisi area dengan baik */
         }
 
         .list-group-item {
-        position: relative;
-        display: block;
-        padding: 0.5rem 1rem;
-        color: #212529;
-        border: 1px solid rgba(0, 0, 0, 0.125);
-        background: none !important;
+            position: relative;
+            display: block;
+            padding: 0.5rem 1rem;
+            color: #212529;
+            border: 1px solid rgba(0, 0, 0, 0.125);
+            background: none !important;
         }
-        </style>
+    </style>
 </head>
 
 <!-- Spinner Start -->
@@ -78,6 +81,10 @@
 
 <!-- Service Start -->
 <?php require_once 'about.php' ?>
+<!-- Service End -->
+
+<!-- Service Start -->
+<?php require_once 'keunggulan.php' ?>
 <!-- Service End -->
 
 

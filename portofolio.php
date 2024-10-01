@@ -69,8 +69,13 @@
   </div>
   <!-- Page Header End -->
   <marquee direction="right">
-    <h3>HUBUNGI KAMI!!!! -></h3>
+    <h3>Di Bawah Ini Adalah Berbagai Macam Desain Kami</h3>
   </marquee>
+  <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+    <!-- <h4 class="text-primary">Paket Harga</h4> -->
+    <h1 class="display-4 mb-4 text-primary">Portofolio</h1>
+    <p class="mb-0">Berikut adalah proyek yang pernah kami tangani sejak perusahaan ini di bangun </p>
+  </div>
 
   <!-- portofolio -->
   <section id="projects" class="projects">

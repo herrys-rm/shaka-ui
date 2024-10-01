@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="fact-item text-center bg-light h-100 p-5 pt-0">
                     <div class="fact-icon">
-                        <img src="img/icons/location.png" alt="Icon">
+                        <img src="img/icons/jawa.png" alt="Icon">
                     </div>
                     <h3 class="mb-3">Jawa</h3>
                     <p class="mb-0">JL.H. Bokir bin Dji'un (menggantikan Jalan Raya Pondok Gede segmen Kelurahan Pinang Ranti dan Kelurahan Dukuh, Jakarta Timur) </p>
@@ -22,7 +22,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="fact-item text-center bg-light h-100 p-5 pt-0">
                     <div class="fact-icon">
-                        <img src="img/icons/location.png" alt="Icon">
+                        <img src="img/icons/lombok.png" alt="Icon">
                     </div>
                     <h3 class="mb-3">Lombok</h3>
                     <p class="mb-0">JL.Hos-cokroaminoto,n0 1</p>

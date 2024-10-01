@@ -146,9 +146,7 @@
     </div>
     <!--  -->
 
-    <!-- Page Header Start -->
-    <?php require_once 'visit.php' ?>
-    <!-- Page Header End -->
+
 
 
     <!-- Team Start -->
