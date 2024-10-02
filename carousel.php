@@ -8,7 +8,7 @@
                         <div class="col-10 col-lg-8">
                             <h1 class="display-1 text-white animated slideInDown">Syaka Design Konstruksi </h1>
                             <p class="fs-5 fw-medium text-white mb-4 pb-3">Jasa desain Bangunan, Interior dan Exterior</p>
-                            <a href="" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
+                            <a href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
                         </div>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                         <div class="col-10 col-lg-8">
                             <h1 class="display-1 text-white animated slideInDown">Kepuasan Anda Adalah Tujuan Kami</h1>
                             <p class="fs-5 fw-medium text-white mb-4 pb-3">Memberikan pelayanan yang anda inginkan</p>
-                            <a href="" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
+                            <a href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                         <div class="col-10 col-lg-8">
                             <h1 class="display-1 text-white animated slideInDown">Mendisai Bangunan Baru dan Renovasi</h1>
                             <p class="fs-5 fw-medium text-white mb-4 pb-3">Mari wujudkan impian anda</p>
-                            <a href="" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
+                            <a href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?" class="btn btn-success py-3 px-5 animated slideInLeft">Konsultasi</a>
                         </div>
                     </div>
                 </div>
