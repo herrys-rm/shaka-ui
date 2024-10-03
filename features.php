@@ -6,8 +6,7 @@
                     <div class="fact-icon">
                         <img src="img/icons/jawa.png" alt="Icon">
                     </div>
-                    <h3 class="mb-3">Jawa</h3>
-                    <p class="mb-0">JL.H. Bokir bin Dji'un (menggantikan Jalan Raya Pondok Gede segmen Kelurahan Pinang Ranti dan Kelurahan Dukuh, Jakarta Timur) </p>
+                    <h2 class="mb-3">Jawa</h2>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -15,8 +14,8 @@
                     <div class="fact-icon">
                         <img src="img/icons/bali.png" alt="Icon">
                     </div>
-                    <h3 class="mb-3">Bali</h3>
-                    <p class="mb-0">JL.bali-kaliantan,no 20</p>
+                    <h2 class="mb-3">Bali</h2>
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -24,8 +23,8 @@
                     <div class="fact-icon">
                         <img src="img/icons/lombok.png" alt="Icon">
                     </div>
-                    <h3 class="mb-3">Lombok</h3>
-                    <p class="mb-0">JL.Hos-cokroaminoto,n0 1</p>
+                    <h2 class="mb-3">Lombok</h2>
+
                 </div>
             </div>
         </div>

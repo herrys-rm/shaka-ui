@@ -28,7 +28,6 @@
 						<li class="list-group-item"><br></li>
 						<li class="list-group-item"><br></li>
 						<li class="list-group-item"><br></li>
-
 					</ul>
 
 					</p>
@@ -38,8 +37,9 @@
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
 				<div class="features-item p-4 pt-0">
-					<div class="features-icon p-4 mb-4">
-						<i class="fa fa-star fa-3x"></i>
+					<div class="features-icon mb-4 px-3" style="padding: 34px 10px;">
+						<i class="fa fa-star fs-2"></i>
+						<i class="fa fa-star fs-2"></i>
 					</div>
 					<h4 class="mb-4">Paket Premium</h4>
 					<p class="fs-1 fw-semibold"><sup>Rp</sup>65.000/m²<span></span></p>
@@ -64,8 +64,10 @@
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
 				<div class="features-item p-4 pt-0">
-					<div class="features-icon p-4 mb-4">
-						<i class="fa fa-star fa-3x"></i>
+					<div class="features-icon mb-4" style="padding: 32px 10px;">
+						<i class="fa fa-star fs-2"></i>
+						<i class="fa fa-star fs-2"></i>
+						<i class="fa fa-star fs-2"></i>
 					</div>
 					<h4 class="mb-4">Paket Gold</h4>
 					<p class="fs-1 fw-semibold"><sup>Rp</sup>90.000/m²<span></span></p>

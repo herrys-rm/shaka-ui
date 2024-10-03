@@ -51,6 +51,18 @@
             border: 1px solid rgba(0, 0, 0, 0.125);
             background: none !important;
         }
+
+        .btn-ig {
+            color: #C13584;
+        }
+
+        .btn-facebook {
+            color: #405DE6;
+        }
+
+        .btn-youtube {
+            color: #FD1D1D;
+        }
     </style>
 </head>
 

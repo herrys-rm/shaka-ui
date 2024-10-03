@@ -13,7 +13,7 @@
                         <img class="mb-4" src="img/icons/house.png" alt="Icon">
                         <h3 class="mb-3">Desain Rumah</h3>
                         <p class="mb-4">Disain rumah impian anda bersama kami</p>
-                        <a class="btn" href="https://www.instagram.com/p/CvFFSjYL-Ge/?img_index=3"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalRumah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -24,13 +24,13 @@
                         <img class="mb-4" src="img/icons/mosque.png" alt="Icon">
                         <h3 class="mb-3">Desain Masjid</h3>
                         <p class="mb-4">Disain Masjid Dan Tempat ibadah anda seperti yang anda inginkan</p>
-                        <a class="btn" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalMasjid"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item d-flex position-relative text-center h-100">
-                    <img class="bg-img" src="img/service-3.jpg" alt="">
+                    <img class="bg-img" src="img/masjid.jpg" alt="">
                     <div class="service-text p-5">
                         <img class="mb-4" src="img/icons/building.png" alt="Icon">
                         <h3 class="mb-3">Desain Sekolah</h3>
@@ -71,6 +71,98 @@
                         <a class="btn" href="https://www.instagram.com/p/DAAUYTdyiAs/"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- modal rumah -->
+<!-- Modal -->
+<div class="modal fade" id="modalRumah" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Rumah</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+                </a>
+                <a class="btn-facebook" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+                </a>
+                <a class="btn-youtube" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Masjid -->
+<div class="modal fade" id="modalMasjid" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Masjid</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+                </a>
+                <a class="btn-facebook" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+                </a>
+                <a class="btn-youtube" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Sekolah -->
+<div class="modal fade" id="modalSekolah" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Sekolah</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+                </a>
+                <a class="btn-facebook" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+                </a>
+                <a class="btn-youtube" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Interior -->
+<div class="modal fade" id="modalInterior" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Interior</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+                </a>
+                <a class="btn-facebook" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+                </a>
+                <a class="btn-youtube" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+                </a>
             </div>
         </div>
     </div>
