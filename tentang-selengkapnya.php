@@ -67,7 +67,6 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h4>Tentang Kami</h4>
                     <h3 class="display-4 mb-4 text-primary">Syaka Design Konstruksi</h3>
                     <p>Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
 
@@ -87,6 +86,8 @@
                 </div>
 
             </div>
+            <br>
+            <h8>SYAKA DESIGN KONSTRUKSI merupakan perusahaan yang bergerak di bidang </h8>
         </div>
     </div>
     <!-- About End -->
@@ -157,82 +158,7 @@
     <!-- Page Header End -->
 
 
-
-
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h1 class="display-4 mb-4 text-primary">Certifikat</h1>
-                <p class="mb-0">Semua Certifikat dan Penghargaan</p>
-            </div>
-            <div class="row g-0 team-items">
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <span class="text-primary">Certifikat</span>
-                            <h3 class="mt-2">Certifikat</h3>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <span class="text-primary">Penjelasans</span>
-                            <h3 class="mt-2">Certifikat</h3>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row g-0 team-items">
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <span class="text-primary">Certifikat</span>
-                            <h3 class="mt-2">Certifikat</h3>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <div class="position-relative">
-                            <img class="img-fluid" src="img/1234.png" alt="">
-                            <div class="team-social text-center">
-                            </div>
-                        </div>
-                        <div class="bg-light text-center p-4">
-                            <span class="text-primary">Penjelasans</span>
-                            <h3 class="mt-2">Certifikat</h3>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
+    <br><br>
     <!-- Footer Start -->
     <?php require_once 'footer.php' ?>
     <!-- Footer End -->

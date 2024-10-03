@@ -9,20 +9,6 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item position-relative">
                     <div class="position-relative">
-                        <img class="img-fluid" src="img/direktur.jpg" alt="">
-                        <div class="team-social text-center">
-
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">Nurlaily rizqi,S.Pd</h3>
-                        <span class="text-primary">Direktur Syaka Konstruksi</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="team-item position-relative">
-                    <div class="position-relative">
                         <img class="img-fluid" src="img/ceo.jpg" alt="">
                         <div class="team-social text-center">
 
@@ -31,6 +17,21 @@
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Julfan syaka alwandi</h3>
                         <span class="text-primary">CEO Syaka Konstruksi</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="img/direktur.jpg" alt="">
+                        <div class="team-social text-center">
+
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-4">
+                        <h3 class="mt-2">Nurlaily rizqi,S.Pd</h3>
+                        <span class="text-primary">Direktur Syaka Konstruksi</span>
                     </div>
                 </div>
             </div>
@@ -51,14 +52,14 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item position-relative">
                     <div class="position-relative">
-                        <img class="img-fluid" src="img/arsitec.jpg" alt="">
+                        <img class="img-fluid" src="img/fin.jpg" alt="">
                         <div class="team-social text-center">
 
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h4 class="mt-2">M.Syarif hidayatulloh,S.Ars</h4>
-                        <span class="text-primary">Drafter architect</span>
+                        <h3 class="mt-2">Novisawali satria</h3>
+                        <span class="text-primary">Supervisor finishing</span>
                     </div>
                 </div>
             </div>
@@ -128,14 +129,14 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item position-relative">
                     <div class="position-relative">
-                        <img class="img-fluid" src="img/fin.jpg" alt="">
+                        <img class="img-fluid" src="img/arsitec.jpg" alt="">
                         <div class="team-social text-center">
 
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">Novisawali satria</h3>
-                        <span class="text-primary">Supervisor finishing</span>
+                        <h3 class="mt-2">M.Syarif hidayatulloh,S.Ars</h3>
+                        <span class="text-primary">Tim architect</span>
                     </div>
                 </div>
             </div>
@@ -148,7 +149,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h5 class="mt-2">Septiana Sukmayanti,A.Md.Ak.</h5>
+                        <h3 class="mt-2">Septiana Sukmayanti,A.Md.Ak.</h3>
                         <span class="text-primary">Administrasi project</span>
                     </div>
                 </div>
@@ -162,7 +163,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h4 class="mt-2">LALU MOH.Ardian saputra</h4>
+                        <h3 class="mt-2">LALU MOH.Ardian saputra</h3>
                         <span class="text-primary">Drafter struktur</span>
                     </div>
                 </div>

@@ -94,7 +94,7 @@
 
         <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-remodeling">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -109,7 +109,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-construction">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -124,7 +124,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -138,7 +138,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-design">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -152,7 +152,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-remodeling">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -167,7 +167,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-construction">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -182,7 +182,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -196,7 +196,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-design">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -210,7 +210,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-remodeling">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -225,7 +225,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-construction">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -240,7 +240,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -254,7 +254,7 @@
             </div>
           </div><!-- End Projects Item -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-design">
             <div class="portfolio-content h-100">
               <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
