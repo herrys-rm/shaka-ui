@@ -38,9 +38,11 @@
                             </div>
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Gratis konsultasi</h4>
-                                <p class="mb-4">Kami menyediakan Konsultan kami menyediakan layanan Konsultasi GRATIS untuk Perencanaan Desain dan Konstruksi. Lingkup layanan Konsultasi desain yang kami sediakan meliputi: Desain Rumah, Masjid, Sekolah, Hotel, Villa, Store dan Lain-lain </p>
-                                <p class="mb-4">Selain itu, Anda juga dapat Berkonsultasi dengan kami seputar Kegiatan Konstruksi</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                <div style="text-align: justify;">
+                                    <p class="mb-4">Kami menyediakan Konsultan kami menyediakan layanan Konsultasi GRATIS untuk Perencanaan Desain dan Konstruksi. Lingkup layanan Konsultasi desain yang kami sediakan meliputi: Desain Rumah, Masjid, Sekolah, Hotel, Villa, Store dan Lain-lain </p>
+                                    <p class="mb-4">Selain itu, Anda juga dapat Berkonsultasi dengan kami seputar Kegiatan Konstruksi</p>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -54,13 +56,15 @@
                             </div>
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Fast Respon</h4>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                                    diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                    clita duo justo magna dolore erat amet</p>
+                                <div style="text-align: justify;">
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
+                                        clita duo justo magna dolore erat amet</p>
+                                </div>
                                 <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -68,19 +72,21 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="img/tim.jpg"
+                                    <img class="position-absolute img-fluid w-100 h-100" src="img/timke.jpg"
                                         style="object-fit: cover;" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Team Arsitek Berpengalaman</h4>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                                    diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                    clita duo justo magna dolore erat amet</p>
+                                <div style="text-align: justify;">
+                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
+                                        clita duo justo magna dolore erat amet</p>
+                                </div>
                                 <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -100,7 +106,7 @@
                                 <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
                                 <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>

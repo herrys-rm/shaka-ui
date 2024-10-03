@@ -171,7 +171,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item position-relative">
                     <div class="position-relative">
-                        <img class="img-fluid" src="img/kre.jpg" alt="">
+                        <img class="img-fluid" src="img/pull2.jpg" alt="">
                         <div class="team-social text-center">
 
                         </div>

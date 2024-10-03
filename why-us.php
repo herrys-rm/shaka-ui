@@ -3,7 +3,7 @@
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                 <h1 class="section-title text-light">PROSEDUR</h1>
-                <h6 class="display-5 mb-4 text-light">Tahap Pembayaran Desain Bangunan</h6>
+                <h6 class="display-5 mb-4 text-dark">Tahap Pembayaran Desain Bangunan</h6>
                 <div class="row g-4">
                     <div class="col-12">
                         <div class="d-flex align-items-start">

@@ -5,7 +5,7 @@
                 <h3 class="text-light mb-4">Alamat</h3>
                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jl. Sawing no 2 Lotim</p>
                 <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+62 819-3214-8688</p>
-                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>shakadesign@example.com</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>syakadesign@example.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i></a>

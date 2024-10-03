@@ -45,32 +45,35 @@
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h3 class="display-4 mb-4 text-primary">Syaka Design Konstruksi</h3>
-                    <p>Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
-
-                    </p>
-                    <p class="mb-4">memberikan pelayanan yang total kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien.</p>
-                    <div class="d-flex align-items-center mb-5">
-                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-success" style="width: 120px; height: 120px;">
-                            <h1 class="display-1 mb-n2 text-success" data-toggle="counter-up">5</h1>
-                        </div>
-                        <div class="ps-4">
-                            <h3>Tahun</h3>
-                            <h3>Pengalaman</h3>
-                            <h3 class="mb-0">Kerja</h3>
-                        </div>
+                    <div style="text-align: justify;">
+                        <p>Syaka Design Konstruksi merupakan perusahaan yang bergerak di bidang jasa desain bangunan(Arsitek) dan pelaksanaan pembangunan properti. Syaka Design Konstruksi berdiri pada tanggal 15 Oktober 2018 dan didirikan oleh seorang pemuda yang bernama
+                            JULFAN SYAKA ALWANDI yang sekaligus menjadi Owner sampai saat ini.
+                        </p>
                     </div>
-                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                    <div style="text-align: justify;">
+                        <p class="mb-4">SYAKA DESIGN KONSTRUKSI menerima/melayani jasa arsitek, contohnya seperti pembuatan desain rumah tinggal/hunian, desain villa, desain sekolah, desain gedung, desain perkantoran, desain tempat ibadah, desain kos-kosan, desain tempat wisata dan lain sebagainya. Untuk jasa desain arsitek kami melayani sampai KE-Seluruh Indonesia secara online, dan untuk pembuatan dan pelaksanaan pembangunannya kami hanya melayani di sekitar pulau lombok NTB. </p>
+                    </div>
+
+                    <a class="btn btn-success rounded-pill py-2 px-4 " href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                 </div>
 
             </div>
             <br>
-            <h8>SYAKA DESIGN KONSTRUKSI merupakan perusahaan yang bergerak di bidang </h8>
+            <div style="text-align: justify;">
+                <h8>SYAKA DESIGN KONSTRUKSI mempunyai tim-tim yang profesional di bidangnya seperti tim arsitek yang berpengalaman dan sudah mempunyai IJAZAH dan SKA, begitu pula dengan tim CIVIL ENGINERING kami, yang mempunyai tim yang berpengalaman dan bisa di percaya untuk membangun/membuat struktur hunian anda, begitu pula dengan tim DRAFTER dan SUPERVISOR.</h8>
+            </div>
+            <br>
+            <div style="text-align: justify;">
+                <h8>Kami juga melayani desain Interior dan mempunyai tim Interior yang berpengalaman serta mempunyai histori yanga bagus, seperti FURNITURE, SOFA, BACKDROP TV, WALLPANEL, KITCHEN SET, BAR dan lain-lain. Kami memilih Manajemen yang profesional, dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing, kami akan memberikan pelayanan total kepada klient dan fast respon sehingga memberikan kepuasan yang maksimal kepada klient.</h8>
+                </h8>
+            </div>
+
         </div>
     </div>
     <!-- About End -->
 
     <!--  -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-1">
         <div class="fact">
             <div class="container-fluid">
                 <div class="row counters">

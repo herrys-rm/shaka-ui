@@ -52,12 +52,12 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item d-flex position-relative text-center h-100">
-                    <img class="bg-img" src="img/service-5.jpg" alt="">
+                    <img class="bg-img" src="img/cover.jpg" alt="">
                     <div class="service-text p-5">
                         <img class="mb-4" src="img/icons/hotel.png" alt="Icon">
                         <h3 class="mb-3">Desain Hotel dan Villa</h3>
                         <p class="mb-4">Disain Hotel dan Villa Yang Anda inginkan Bersama Kami</p>
-                        <a class="btn" href="https://www.instagram.com/syakadesign21/"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalHotel"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -151,6 +151,30 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Interior</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+                </a>
+                <a class="btn-facebook" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+                </a>
+                <a class="btn-youtube" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
+                    <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal hotel -->
+<div class="modal fade" id="modalHotel" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail Hotel & Villa</h1>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">

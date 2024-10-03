@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <h4 class="text-light">Tentang Kami</h4>
+                <h4 class="text-dark">Tentang Kami</h4>
                 <h3 class="display-4 text-light mb-4 text-primary">Syaka Design Konstruksi</h3>
                 <div style="text-align: justify;">
                     <p class="text-light">Syaka Design Konstruksi adalah perusahaan jasa kontraktor yang berfokus pada jasa Bangun Baru dan Renovasi rumah tinggal, rumah kost, ruko, kantor, dan kafe. Bangunan Kita memiliki manajemen yang profesional dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing.
