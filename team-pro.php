@@ -1,9 +1,9 @@
 <!-- Team Start -->
-<div class="container-xxl py-5">
+<div class="container-xxl py-5 bg-success">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h1 class="display-4 mb-4 text-primary">Team Perusahaan</h1>
-            <p class="mb-0">Berikut adalah daftar team yang akan mengerjakan disain anda sesuai dengan permintaan anda</p>
+            <h1 class="display-4 mb-4 text-light ">Team Perusahaan</h1>
+            <p class="mb-0 text-light">Berikut adalah daftar team yang akan mengerjakan disain anda sesuai dengan permintaan anda</p>
         </div>
         <div class="row g-0 team-items">
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

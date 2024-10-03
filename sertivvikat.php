@@ -27,7 +27,7 @@
                         <img src="assets/img/certivikat/sertivikat1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <a href="assets/img/certivikat/sertivikat1.jpg" title="lihat"
-                                data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
@@ -37,7 +37,7 @@
                         <img src="assets/img/certivikat/sertivikat2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <a href="assets/img/certivikat/sertivikat2.jpg" title="Lihat"
-                                data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon "></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
@@ -49,7 +49,7 @@
                             <h4>Repairs 1</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -63,7 +63,7 @@
                             <h4>Design 1</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -78,7 +78,7 @@
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2"
                                 data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
+                                    class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -93,7 +93,7 @@
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/construction-2.jpg" title="Construction 2"
                                 data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
+                                    class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -107,7 +107,7 @@
                             <h4>Repairs 2</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -121,7 +121,7 @@
                             <h4>Design 2</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -136,7 +136,7 @@
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3"
                                 data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
+                                    class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -151,7 +151,7 @@
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/construction-3.jpg" title="Construction 3"
                                 data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
-                                    class="bi bi-zoom-in"></i></a>
+                                    class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -165,7 +165,7 @@
                             <h4>Repairs 3</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>
@@ -179,7 +179,7 @@
                             <h4>Design 3</h4>
                             <p>Lorem ipsum, dolor sit amet consectetur</p>
                             <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                             <a href="#" title="More Details" class="details-link"><i
                                     class="bi bi-link-45deg"></i></a>
                         </div>

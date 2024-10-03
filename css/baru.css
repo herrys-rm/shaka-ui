@@ -1,12 +1,11 @@
 .carousel-item {
     height: 500px;
-    /* Atur tinggi sesuai kebutuhan */
 }
+
 
 .carousel-item img {
     height: 100%;
     object-fit: cover;
-    /* Agar gambar mengisi area dengan baik */
 }
 
 .list-group-item {
@@ -46,4 +45,19 @@
         font-size: 16px !important;
         margin-top: 10px !important;
     }
+
+    .carousel-item {
+        height: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel-item {
+        height: 300px;
+    }
+}
+
+.zoom-icon:hover {
+    color: #198754;
+    font-weight: bold;
 }
