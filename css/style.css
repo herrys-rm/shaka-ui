@@ -308,9 +308,10 @@ h6,
 .fact .fact-right h2 {
   color: #198754;
 }
+
 /* end fact */
 
-.breadcrumb-item + .breadcrumb-item::before {
+.breadcrumb-item+.breadcrumb-item::before {
   color: var(--light);
 }
 
@@ -371,7 +372,8 @@ h6,
 }
 
 .features .features-item .features-icon,
-.features .features-item h4, h1,
+.features .features-item h4,
+h1,
 .features .features-item p {
   transition: 0.5s;
 }
@@ -379,17 +381,21 @@ h6,
 .features .features-item:hover .features-icon {
   color: var(--bs-white);
 }
-.features .features-item:hover h4, h1,
+
+.features .features-item:hover h4,
+h1,
 .features .features-item:hover p {
   color: var(--bs-white);
 }
 
-.features .features-item:hover h4, h1,
+.features .features-item:hover h4,
+h1,
 .features .features-item:hover li {
   color: var(--bs-white);
 }
 
-.features .features-item:hover h4, h1,
+.features .features-item:hover h4,
+h1,
 .features .features-item:hover li {
   color: var(--bs-white);
 }
@@ -403,6 +409,7 @@ h6,
   background: var(--bs-dark);
   color: var(--bs-white);
 }
+
 /* end price */
 
 /*** Facts ***/
@@ -509,8 +516,7 @@ h6,
 
 /* projects */
 /* # Our Projects Section */
---------------------------------------------------------------*/
-.projects .portfolio-flters {
+--------------------------------------------------------------*/ .projects .portfolio-flters {
   padding: 0;
   margin: 0 auto 20px auto;
   list-style: none;

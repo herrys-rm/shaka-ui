@@ -3,10 +3,11 @@
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 <nav class="navbar navbar-expand-lg bg-navbar navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-    <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
-        <h1 class="text-shaka m-0">
-            <img class="me-3" src="img/icons/saka.png" alt="Logo Syaka Konstruksi">Syaka Design Konstruksi
-        </h1>
+    <a href="index.php" class="navbar-brand ms-4 d-flex ms-lg-0">
+        <img class="me-3" src="img/icons/saka.png" alt="Logo Syaka Konstruksi">
+        <p class="text-light fw-bold m-0" id="nama-perusahaan">
+            Syaka Design Konstruksi
+        </p>
     </a>
     <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
@@ -27,6 +28,6 @@ $current_page = basename($_SERVER['PHP_SELF']);
                                                             } ?>">Kontak</a>
 
         </div>
-        <a href="https://web.whatsapp.com/send?phone=6285339913626&text=Halo%21%20Syaka%20Konstruksi%2C%20boleh%20saya%20konsultasi%20dulu%3F" class="btn btn-light py-2 px-4 d-none d-lg-block">Hubungi Kami</a>
+        <a href="https://web.whatsapp.com/send?phone=6285339913626&text=Halo%21%20Syaka%20Konstruksi%2C%20boleh%20saya%20konsultasi%20dulu%3F" class="btn btn-ijo rounded-pill py-2 px-4 d-none d-lg-block">Hubungi Kami</a>
     </div>
 </nav>
