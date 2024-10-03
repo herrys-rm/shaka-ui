@@ -89,7 +89,7 @@
 
 
 					</p>
-					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
+					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
 					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
 				</div>
 			</div>

@@ -26,7 +26,7 @@
 
                     </div>
                     <div class="mb-3">
-                        <label for="email">Alamat</label>
+                        <label for="email">Alamat Lengkap</label>
                         <input type="text" id="email" palaceholder="Email Address" class="form-control shadow-none" required>
 
                     </div>
