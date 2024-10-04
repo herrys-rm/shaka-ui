@@ -32,7 +32,7 @@
 
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
-					<a class="btn btn-warning rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
+					<a class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -59,7 +59,7 @@
 					</ul>
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
-					<a class="btn btn-info rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
+					<a class="btn btn-info" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -90,8 +90,32 @@
 
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
-					<a class="btn btn-danger rounded-pill py-2 px-4" href="https://www.instagram.com/syakadesign21/">Lihat detail</a>
+					<a class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+
 				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalDetail" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h1 class="modal-title fs-5 text-dark" id="exampleModalLabel">Detail</h1>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+					<p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
+				</a>
+				<a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
+					<p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
+				</a>
+				<a class="btn-youtube" href="https://www.youtube.com/@syakaal7076">
+					<p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
+				</a>
 			</div>
 		</div>
 	</div>
