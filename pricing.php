@@ -32,7 +32,7 @@
 
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
-					<a class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+					<a class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="text-primary me-3"></i>Lihat Detail</a>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -59,7 +59,7 @@
 					</ul>
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
-					<a class="btn btn-info" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+					<a class="btn btn-info" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class=" text-primary me-3"></i>Lihat Detail</a>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -90,7 +90,7 @@
 
 					</p>
 					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
-					<a class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
+					<a class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="rounded-pill text-primary me-3"></i>Lihat Detail</a>
 
 				</div>
 			</div>
