@@ -44,14 +44,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/certivikat/sertivikat3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Repairs 1</h4>
-                            <p>Lorem ipsum, dolor sit amet consectetur</p>
-                            <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                            <a href="assets/img/certivikat/sertivikat3.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
                                 class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
-                            <a href="#" title="More Details" class="details-link"><i
-                                    class="bi bi-link-45deg"></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
