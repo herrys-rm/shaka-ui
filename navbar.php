@@ -1,13 +1,39 @@
 <?php
 // Dapatkan nama file saat ini
 $current_page = basename($_SERVER['PHP_SELF']);
+
+// Koneksi ke database
+require_once 'admin/config/connection.php';
+
+
+// Ambil logo terakhir dari tabel 'logo'
+$sql = "SELECT logo_image_path FROM logo ORDER BY id DESC LIMIT 1";
+$result = $conn->query($sql);
+
+// Inisialisasi variabel $logo_path
+$logo_path = 'uploads/placeholder.png'; // Gambar default jika tidak ada logo
+
+if ($result && $result->num_rows > 0) {
+    $row = $result->fetch_assoc();
+    if (!empty($row['logo_image_path'])) {
+        $logo_path = 'uploads/' . $row['logo_image_path']; // Path logo terakhir
+    }
+}
+
+$title_query = "SELECT title_name FROM title LIMIT 1";
+$title_result = $conn->query($title_query);
+
+$title_name = '';
+if ($title_result->num_rows > 0) {
+    $title_row = $title_result->fetch_assoc();
+    $title_name = $title_row['title_name'];
+}
+
 ?>
+
 <nav class="navbar navbar-expand-lg bg-navbar navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-    <a href="index.php" class="navbar-brand ms-4 d-flex ms-lg-0">
-        <img class="me-3" src="img/icons/saka.png" alt="Logo Syaka Konstruksi">
-        <p class="text-light fw-bold m-0" id="nama-perusahaan">
-            Syaka Design Konstruksi
-        </p>
+    <a href="#" class="navbar-brand ms-4 ms-lg-0">
+        <h1 class="text-text-light m-0"><img class="me-3" src="<?php echo $logo_path; ?>" alt="Icon"><?php echo $title_name; ?></h1>
     </a>
     <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>

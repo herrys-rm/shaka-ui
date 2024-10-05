@@ -21,10 +21,10 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 Settings
             </a>
 
-            <a class="nav-link <?php echo ($current_page == 'tables.html') ? 'active' : ''; ?>" href="tables.html">
+            <!-- <a class="nav-link <?php echo ($current_page == 'tables.html') ? 'active' : ''; ?>" href="tables.html">
                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                 Tables
-            </a>
+            </a> -->
         </div>
     </div>
     <div class="sb-sidenav-footer">
