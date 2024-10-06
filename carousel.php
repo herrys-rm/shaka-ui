@@ -1,7 +1,7 @@
 <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="owl-carousel header-carousel position-relative">
-        <div class="owl-carousel-item position-relative" data-dot="<img src='img/18.jpg'>">
-            <img class="img-fluid" src="img/18.jpg" alt="">
+        <div class="owl-carousel-item position-relative" data-dot="<img src='img/aku11.jpg'>">
+            <img class="img-fluid" src="img/aku11.jpg" alt="">
             <div class="owl-carousel-inner">
                 <div class="container">
                     <div class="row justify-content-start">
@@ -14,8 +14,8 @@
                 </div>
             </div>
         </div>
-        <div class="owl-carousel-item position-relative" data-dot="<img src='img/12.jpg'>">
-            <img class="img-fluid" src="img/12.jpg" alt="">
+        <div class="owl-carousel-item position-relative" data-dot="<img src='img/aku12.jpg'>">
+            <img class="img-fluid" src="img/aku12.jpg" alt="">
             <div class="owl-carousel-inner">
                 <div class="container">
                     <div class="row justify-content-start">
@@ -28,8 +28,8 @@
                 </div>
             </div>
         </div>
-        <div class="owl-carousel-item position-relative" data-dot="<img src='img/6.jpg'>">
-            <img class="img-fluid" src="img/6.jpg" alt="">
+        <div class="owl-carousel-item position-relative" data-dot="<img src='img/aku14.jpg'>">
+            <img class="img-fluid" src="img/aku14.jpg" alt="">
             <div class="owl-carousel-inner">
                 <div class="container">
                     <div class="row justify-content-start">

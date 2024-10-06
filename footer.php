@@ -3,7 +3,8 @@
         <div class="row g-5">
             <div class="col-lg-4 col-md-6">
                 <h3 class="text-light mb-4">Alamat</h3>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jl. Sawing no 2 Lotim</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jl. Sawing No.RT19, Majidi, Kec. Selong, Kabupaten Lombok Timur, Nusa Tenggara Barat. 83619</h3>
+                </p>
                 <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+62 819-3214-8688</p>
                 <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>syakadesign@example.com</p>
                 <div class="d-flex pt-2">

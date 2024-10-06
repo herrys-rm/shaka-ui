@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">Nurlaily rizqi,S.Pd</h3>
+                        <h3 class="mt-2">Nurlaily rizki,S.Pd</h3>
                         <span class="text-primary">Direktur Syaka Konstruksi</span>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">M.Syarif hidayatulloh,S.Ars</h3>
+                        <h3 class="mt-2">M.Syarif <br>hidayatulloh,S.Ars</h3>
                         <span class="text-primary">Tim architect</span>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">LALU MOH.Ardian saputra</h3>
+                        <h3 class="mt-2">LALU MOH.Ardian <br>saputra</h3>
                         <span class="text-primary">Drafter struktur</span>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">Saiful bahri</h3>
+                        <h2 class="mt-2">Saiful bahri</h2>
                         <span class="text-primary">Tim konten kreator & desain grafis</span>
                     </div>
                 </div>

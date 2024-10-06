@@ -23,42 +23,12 @@
 
             <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+                <div class="col-lg-3 col-md-6 portfolio-item filter-remodeling">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/certivikat/sertivikat1.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/certivikat/24.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <a href="assets/img/certivikat/sertivikat1.jpg" title="lihat"
+                            <a href="assets/img/certivikat/24.jpg" title="lihat"
                                 data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
-                        </div>
-                    </div>
-                </div><!-- End Projects Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-                    <div class="portfolio-content h-100">
-                        <img src="assets/img/certivikat/sertivikat2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <a href="assets/img/certivikat/sertivikat2.jpg" title="Lihat"
-                                data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon "></i></a>
-                        </div>
-                    </div>
-                </div><!-- End Projects Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-                    <div class="portfolio-content h-100">
-                        <img src="assets/img/certivikat/sertivikat3.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <a href="assets/img/certivikat/sertivikat3.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
-                        </div>
-                    </div>
-                </div><!-- End Projects Item -->
-
-                <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
-                    <div class="portfolio-content h-100">
-                        <img src="assets/img/certivikat/1.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <a href="assets/img/certivikat/1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
-                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
@@ -92,6 +62,38 @@
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/sertivikat1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/sertivikat1.jpg" title="lihat"
+                                data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/sertivikat2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/sertivikat2.jpg" title="Lihat"
+                                data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon "></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/sertivikat3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/sertivikat3.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+
+
 
                 <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
                     <div class="portfolio-content h-100">
@@ -135,32 +137,68 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/certivikat/5.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Repairs 3</h4>
-                            <p>Lorem ipsum, dolor sit amet consectetur</p>
-                            <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
+                            <a href="assets/img/certivikat/5.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
                                 class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
-                            <a href="#" title="More Details" class="details-link"><i
-                                    class="bi bi-link-45deg"></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
                     <div class="portfolio-content h-100">
-                        <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/certivikat/110.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Design 3</h4>
-                            <p>Lorem ipsum, dolor sit amet consectetur</p>
-                            <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book"
+                            <a href="assets/img/certivikat/110.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
                                 class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
-                            <a href="#" title="More Details" class="details-link"><i
-                                    class="bi bi-link-45deg"></i></a>
                         </div>
                     </div>
                 </div><!-- End Projects Item -->
-
+                <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/100.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/100.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+                <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/12.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/12.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+                <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/13.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/13.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+                <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/21.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/21.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
+                <div class="col-lg-3 col-md-6 portfolio-item filter-repairs">
+                    <div class="portfolio-content h-100">
+                        <img src="assets/img/certivikat/22.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <a href="assets/img/certivikat/22.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                                class="glightbox preview-link"><i class="bi bi-zoom-in zoom-icon"></i></a>
+                        </div>
+                    </div>
+                </div><!-- End Projects Item -->
             </div><!-- End Projects Container -->
 
         </div>

@@ -12,7 +12,7 @@
                     <div class=" service-text p-5">
                         <img class="mb-4" src="img/icons/house.png" alt="Icon">
                         <h3 class="mb-3">Desain Rumah</h3>
-                        <p class="mb-4">Disain rumah impian anda bersama kami</p>
+                        <p class="mb-4">Disain rumah impian anda bersama dengan kami</p>
                         <a class="btn" data-bs-toggle="modal" data-bs-target="#modalRumah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item d-flex position-relative text-center h-100">
-                    <img class="bg-img" src="img/masjid.jpg" alt="">
+                    <img class="bg-img" src="img/sekolah1.jpg" alt="">
                     <div class="service-text p-5">
                         <img class="mb-4" src="img/icons/building.png" alt="Icon">
                         <h3 class="mb-3">Desain Sekolah</h3>
