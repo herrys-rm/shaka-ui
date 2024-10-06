@@ -58,8 +58,8 @@
                                 <i class="fa fa-map-marker-alt text-primary"></i>
                             </div>
                             <div class="ms-4">
-                                <p class="mb-2">Address</p>
-                                <h3 class="mb-0">123 Street, New York, USA</h3>
+                                <p class="mb-2">Alamat Kantor</p>
+                                <h6 class="mb-0">Jl. Sawing No.RT19, Majidi, Kec. Selong, Kabupaten Lombok Timur, Nusa Tenggara Barat. 83619</h6>
                             </div>
                         </div>
                         <div class="bg-light d-flex align-items-center w-100 p-4 mb-4">
@@ -86,11 +86,11 @@
                     <div class="d-flex flex-column justify-content-between h-100">
                         <div class="bg-light d-flex align-items-center w-100 p-4 mb-4">
                             <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-dark" style="width: 55px; height: 55px;">
-                                <i class="fa fa-map-marker-alt text-primary"></i>
+                                <i class="fa fa-phone-alt text-primary"></i>
                             </div>
                             <div class="ms-4">
-                                <p class="mb-2">Address</p>
-                                <h3 class="mb-0">123 Street, New York, USA</h3>
+                                <p class="mb-2">Call Us Now</p>
+                                <h3 class="mb-0">+012 345 6789</h3>
                             </div>
                         </div>
                         <div class="bg-light d-flex align-items-center w-100 p-4 mb-4">
@@ -125,9 +125,7 @@
 
     <!-- Google Map Start -->
     <div class="container-xxl pt-5 px-0 wow fadeIn" data-wow-delay="0.1s">
-        <iframe class="w-100 mb-n2" style="height: 450px;"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
-            frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.289423536706!2d116.52141787321203!3d-8.66400088816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc4fa0d9e0b415%3A0xaedfe338814df116!2sSyaka%20Design%20Kontruksi!5e0!3m2!1sid!2sid!4v1728175414081!5m2!1sid!2sid" width="1400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!-- Google Map End -->
 
