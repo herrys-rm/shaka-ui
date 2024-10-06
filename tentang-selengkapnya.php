@@ -67,6 +67,8 @@
                 <h8>Kami juga melayani desain Interior dan mempunyai tim Interior yang berpengalaman serta mempunyai histori yanga bagus, seperti FURNITURE, SOFA, BACKDROP TV, WALLPANEL, KITCHEN SET, BAR dan lain-lain. Kami memilih Manajemen yang profesional, dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing, kami akan memberikan pelayanan total kepada klient dan fast respon sehingga memberikan kepuasan yang maksimal kepada klient.</h8>
                 </h8>
             </div>
+            <a class="btn btn-success rounded-pill py-2 px-4 " href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+
 
         </div>
     </div>
