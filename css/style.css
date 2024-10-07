@@ -580,7 +580,7 @@ h1,
   font-weight: 400;
   color: #fff;
   display: inline-block;
-  background-color: var(--color-primary);
+  background-color: var(--primary);
 }
 
 .projects .portfolio-content .portfolio-info p {
