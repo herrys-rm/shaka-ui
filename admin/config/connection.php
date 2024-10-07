@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'shaka_design';  // Ganti dengan nama database kamu
+$dbname = 'saka_design';  // Ganti dengan nama database kamu
 $username_db = 'root';  // Ganti dengan username database kamu
 $password_db = '';  // Ganti dengan password database kamu
 

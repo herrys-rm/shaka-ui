@@ -54,6 +54,6 @@ if ($title_result->num_rows > 0) {
                                                             } ?>">Kontak</a>
 
         </div>
-        <a href="https://web.whatsapp.com/send?phone=6285339913626&text=Halo%21%20Syaka%20Konstruksi%2C%20boleh%20saya%20konsultasi%20dulu%3F" class="btn btn-ijo rounded-pill py-2 px-4 d-none d-lg-block">Hubungi Kami</a>
+        <a href="https://web.whatsapp.com/send?phone=6281932148688&text=Halo%21%20Syaka%20Konstruksi%2C%20boleh%20saya%20konsultasi%20dulu%3F" class="btn btn-ijo rounded-pill py-2 px-4 d-none d-lg-block">Hubungi Kami</a>
     </div>
 </nav>

@@ -13,7 +13,7 @@
                         <img class="mb-4" src="img/icons/house.png" alt="Icon">
                         <h3 class="mb-3">Desain Rumah</h3>
                         <p class="mb-4">Disain rumah impian anda bersama kami</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalRumah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalRumah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                         <img class="mb-4" src="img/icons/mosque.png" alt="Icon">
                         <h3 class="mb-3">Desain Masjid</h3>
                         <p class="mb-4">Disain Masjid Dan Tempat ibadah anda seperti yang anda inginkan</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalMasjid"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalMasjid"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                         <img class="mb-4" src="img/icons/building.png" alt="Icon">
                         <h3 class="mb-3">Desain Sekolah</h3>
                         <p class="mb-4">Disain Sekolah Anda Dengan Disain Yang Menarik</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalSekolah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalSekolah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                         <img class="mb-4" src="img/icons/interior21.png" alt="Icon">
                         <h3 class="mb-3">Desain Interior</h3>
                         <p class="mb-4">Interior Rumah Anda Membosankan, Kami Solusinya</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalInterior"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalInterior"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                         <img class="mb-4" src="img/icons/hotel.png" alt="Icon">
                         <h3 class="mb-3">Desain Hotel dan Villa</h3>
                         <p class="mb-4">Disain Hotel dan Villa Yang Anda inginkan Bersama Kami</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalHotel"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalHotel"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                         <img class="mb-4" src="img/icons/store.png" alt="Icon">
                         <h3 class="mb-3">Desain Store</h3>
                         <p class="mb-4">Disain Ruko Anda Bersama Kami, Pasti Lebih Menarik</p>
-                        <!-- <a class="btn" data-bs-toggle="modal" data-bs-target="#modalStore"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a> -->
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalStore"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>

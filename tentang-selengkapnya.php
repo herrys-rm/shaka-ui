@@ -54,23 +54,38 @@
                         <p class="mb-4">SYAKA DESIGN KONSTRUKSI menerima/melayani jasa arsitek, contohnya seperti pembuatan desain rumah tinggal/hunian, desain villa, desain sekolah, desain gedung, desain perkantoran, desain tempat ibadah, desain kos-kosan, desain tempat wisata dan lain sebagainya. Untuk jasa desain arsitek kami melayani sampai KE-Seluruh Indonesia secara online, dan untuk pembuatan dan pelaksanaan pembangunannya kami hanya melayani di sekitar pulau lombok NTB. </p>
                     </div>
 
-                    <a class="btn btn-success rounded-pill py-2 px-4 " href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                    <div class="d-flex align-items-center mb-2">
+                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-dark" style="width: 120px; height: 120px;">
+                            <h1 class="display-1 text-dark mb-n2 text-success" data-toggle="counter-up">5</h1>
+                        </div>
+                        <div class="ps-4 ">
+                            <h3>Tahun</h3>
+                            <h3>Pengalaman</h3>
+                            <h3>Kerja</h3>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
-            <br>
-            <div style="text-align: justify;">
-                <h8>SYAKA DESIGN KONSTRUKSI mempunyai tim-tim yang profesional di bidangnya seperti tim arsitek yang berpengalaman dan sudah mempunyai IJAZAH dan SKA, begitu pula dengan tim CIVIL ENGINERING kami, yang mempunyai tim yang berpengalaman dan bisa di percaya untuk membangun/membuat struktur hunian anda, begitu pula dengan tim DRAFTER dan SUPERVISOR.</h8>
-            </div>
-            <br>
-            <div style="text-align: justify;">
-                <h8>Kami juga melayani desain Interior dan mempunyai tim Interior yang berpengalaman serta mempunyai histori yanga bagus, seperti FURNITURE, SOFA, BACKDROP TV, WALLPANEL, KITCHEN SET, BAR dan lain-lain. Kami memilih Manajemen yang profesional, dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing, kami akan memberikan pelayanan total kepada klient dan fast respon sehingga memberikan kepuasan yang maksimal kepada klient.</h8>
-                </h8>
-            </div>
-
         </div>
+
+
     </div>
     <!-- About End -->
+
+    <div class="container-xxl py-5">
+
+        <div style="text-align: justify;">
+            <p class="mb-4">SYAKA DESIGN KONSTRUKSI mempunyai tim-tim yang profesional di bidangnya seperti tim arsitek yang berpengalaman dan sudah mempunyai IJAZAH dan SKA, begitu pula dengan tim CIVIL ENGINERING kami, yang mempunyai tim yang berpengalaman dan bisa di percaya untuk membangun/membuat struktur hunian anda, begitu pula dengan tim DRAFTER dan SUPERVISOR.</p>
+        </div>
+        <div style="text-align: justify;">
+            <p class="mb-4">Kami juga melayani desain Interior dan mempunyai tim Interior yang berpengalaman serta mempunyai histori yanga bagus, seperti FURNITURE, SOFA, BACKDROP TV, WALLPANEL, KITCHEN SET, BAR dan lain-lain. Kami memilih Manajemen yang profesional, dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing, kami akan memberikan pelayanan total kepada klient dan fast respon sehingga memberikan kepuasan yang maksimal kepada klient.</p>
+        </div>
+        <div style="text-align: justify;">
+            <a class="btn btn-success rounded-pill py-2 px-4 " href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+        </div>
+    </div>
 
     <!--  -->
     <div class="container-xxl py-1">
@@ -93,8 +108,8 @@
                                     <i class="flaticon-building"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">980</h2>
-                                    <p>Clients</p>
+                                    <h2 data-toggle="counter-up">230</h2>
+                                    <p>Customer</p>
                                 </div>
                             </div>
                         </div>
@@ -106,8 +121,8 @@
                                     <i class="flaticon-address"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">789</h2>
-                                    <p>Completed Projects</p>
+                                    <h2 data-toggle="counter-up">343</h2>
+                                    <p>Project</p>
                                 </div>
                             </div>
                             <div class="col-6">
@@ -115,8 +130,8 @@
                                     <i class="flaticon-crane"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">890</h2>
-                                    <p>Running Projects</p>
+                                    <h2 data-toggle="counter-up">232</h2>
+                                    <p>Project sedang berjalan</p>
                                 </div>
                             </div>
                         </div>

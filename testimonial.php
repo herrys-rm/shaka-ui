@@ -22,33 +22,33 @@
                 <img src="img/phone-2.png" class="img-fluid" alt="Testimonial 4">
               </div>
               <div class="col-3">
-                <img src="img/phone-2.png" class="img-fluid" alt="Testimonial 4">
+                <img src="img/phone-3.png" class="img-fluid" alt="Testimonial 4">
               </div>
             </div>
           </div>
           <div class="carousel-item">
             <div class="row">
               <div class="col-3">
-                <img src="img/phone.png" class="img-fluid" alt="testimonial 3">
+                <img src="img/phone-4.png" class="img-fluid" alt="testimonial 3">
               </div>
               <div class="col-3">
-                <img src="img/phone-1.png" class="img-fluid" alt="Testimonial 4">
+                <img src="img/phone-5.png" class="img-fluid" alt="Testimonial 4">
               </div>
               <div class="col-3">
-                <img src="img/phone-2.png" class="img-fluid" alt="Testimonial 4">
+                <img src="img/phone-6.png" class="img-fluid" alt="Testimonial 4">
               </div>
               <div class="col-3">
-                <img src="img/phone-2.png" class="img-fluid" alt="Testimonial 4">
+                <img src="img/phone-7.png" class="img-fluid" alt="Testimonial 4">
               </div>
             </div>
           </div>
           <div class="carousel-item">
             <div class="row">
               <div class="col-3">
-                <img src="img/phone.png" class="img-fluid" alt="testimonial 3">
+                <img src="img/phone-8.png" class="img-fluid" alt="testimonial 3">
               </div>
               <div class="col-3">
-                <img src="img/phone-1.png" class="img-fluid" alt="Testimonial 4">
+                <img src="img/phone-9.png" class="img-fluid" alt="Testimonial 4">
               </div>
               <div class="col-3">
                 <img src="img/phone-2.png" class="img-fluid" alt="Testimonial 4">

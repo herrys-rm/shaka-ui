@@ -57,10 +57,7 @@
     <div class="container" data-aos="fade-up">
       <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"
         data-portfolio-sort="original-order">
-        <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-          <li data-filter="*" class="filter-active">Galeri Portofolio</li>
 
-        </ul>
         <!-- End Projects Filters -->
 
         <div class="row gy-4 portfolio-container mb-3" data-aos="fade-up" data-aos-delay="200">

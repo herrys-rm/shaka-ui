@@ -58,7 +58,7 @@
 						<li class="list-group-item"><br></li>
 					</ul>
 					</p>
-					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
+					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_premium.php">Pesan</a>
 					<a class="btn btn-info" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class=" text-primary me-3"></i>Lihat Detail</a>
 				</div>
 			</div>

@@ -1,9 +1,9 @@
 <!-- Project Start -->
-<div class="container-xxl project py-5">
+<div class="container-xxl project py-5 bg-dark">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
             <h1 class="display-4 mb-4 text-primary">Keunggulan Kami</h1>
-            <p class="mb-0">Kami telah banyak menangani poyek-proyek dari berbagai kebutuhan dengan keunggulan yang kami tawarkan</p>
+            <p class="mb-0 text-light">Kami telah banyak menangani poyek-proyek dari berbagai kebutuhan dengan keunggulan yang kami tawarkan</p>
         </div>
         <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
             <div class="col-lg-4">
@@ -39,9 +39,9 @@
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Gratis konsultasi</h4>
                                 <div style="text-align: justify;">
-                                    <p class="mb-4">Kami menyediakan Konsultan kami menyediakan layanan Konsultasi GRATIS untuk Perencanaan Desain dan Konstruksi. Lingkup layanan Konsultasi desain yang kami sediakan meliputi: Desain Rumah, Masjid, Sekolah, Hotel, Villa, Store dan Lain-lain </p>
-                                    <p class="mb-4">Selain itu, Anda juga dapat Berkonsultasi dengan kami seputar Kegiatan Konstruksi</p>
-                                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                    <p class="mb-4 text-light">Kami menyediakan layanan Konsultasi GRATIS selama 24 jam untuk Perencanaan Desain dan Konstruksi. Lingkup layanan Konsultasi desain yang kami sediakan meliputi: Desain Rumah, Masjid, Sekolah, Hotel, Villa, Store dan Lain-lain. </p>
+                                    <p class="mb-4 text-light">Selain itu, Anda juga dapat Berkonsultasi dengan kami seputar Kegiatan Konstruksi, silahkan hubungi kami jika anda berminat.</p>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                                 </div>
                             </div>
                         </div>
@@ -57,14 +57,13 @@
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Fast Respon</h4>
                                 <div style="text-align: justify;">
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                        clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4 text-light">Jasa arsitek kami sangat responsif dan kooperatif. Kami dengan sabar akan mendengarkan semua pertanyaan, masukan dan semua komentar anda saat melakukan proses desain.</p>
                                 </div>
-                                <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <div style="text-align: justify;">
+                                    <p class="mb-4 text-light">Kami siap melayani anda 24 jam kapanpun dan dimanapun, karena kepuasan anda adalah prioritas kami.
+                                </div>
+
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -79,14 +78,22 @@
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Team Arsitek Berpengalaman</h4>
                                 <div style="text-align: justify;">
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                        clita duo justo magna dolore erat amet</p>
+                                    <p class="mb-4 text-light">Syaka Design Konstruksi mempunyai tim arsiteck yang berpengalaman dan sudah mempunyai ijazah maupun SKA. semua tim yang kami miliki sudah sangat berpengalaman di bidangnya masing-masing seperti: </p>
                                 </div>
-                                <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <p><i class="fa fa-check text-light me-3"></i>
+                                    <h8 class="text-light">Tim architect</h8>
+                                </p>
+                                <p><i class="fa fa-check text-light me-3"></i>
+                                    <h8 class="text-light">Tim Enginering</h8>
+                                </p>
+                                <p><i class="fa fa-check text-light me-3"></i>
+                                    <h8 class="text-light">Tim Drafter dan Superviso</h8>
+                                </p>
+                                <p><i class="fa fa-check text-light me-3"></i>
+                                    <h8 class="text-light">Tim konten Kreator & Desain grafis</h8>
+                                </p>
+
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -100,13 +107,10 @@
                             </div>
                             <div class="col-md-6">
                                 <h4 class="display-4 mb-4 text-primary">Pelayanan Seluruh Indonesia</h4>
-                                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                                    diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                    clita duo justo magna dolore erat amet</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Design Approach</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Innovative Solutions</p>
-                                <p><i class="fa fa-check text-primary me-3"></i>Project Management</p>
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <div style="text-align: justify;">
+                                    <p class="mb-4 text-light">Syaka Design Konstruksi melakukan pelayanan ke seluruh indonesia, karena tim Syaka Design Konstruksi tersebar hampir di seluruh indonesia. Mulai dari Jawa,Bali,Lombok dan lain-lain.</p>
+                                </div>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
