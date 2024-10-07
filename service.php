@@ -86,13 +86,13 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASTqT6yINS/?img_index=1">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
                 </a>
-                <a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
+                <a class="btn-facebook" href="https://web.facebook.com/photo.php?fbid=392309379980984&set=pb.100076057749835.-2207520000&type=3">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
                 </a>
-                <a class="btn-youtube" href="https://www.youtube.com/@syakaal7076">
+                <a class="btn-youtube" href="https://www.youtube.com/watch?v=xTY4ckHMnj4&ab_channel=SYAKAKONSTRUKSI">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
                 </a>
             </div>
@@ -109,10 +109,10 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+                <a class="btn-ig" href="https://www.instagram.com/p/DASIfugSJLd/?img_index=1">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
                 </a>
-                <a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
+                <a class="btn-facebook" href="https://web.facebook.com/photo.php?fbid=492696819942239&set=pb.100076057749835.-2207520000&type=3">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
                 </a>
                 <a class="btn-youtube" href="https://www.youtube.com/@syakaal7076">
@@ -132,7 +132,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+                <a class="btn-ig" href="https://www.instagram.com/p/CfQJtoILAu2/">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
                 </a>
                 <a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
@@ -154,13 +154,13 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+                <a class="btn-ig" href="https://www.instagram.com/p/Ce1-PYhhejd/">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
                 </a>
                 <a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
                 </a>
-                <a class="btn-youtube" href="https://www.youtube.com/@syakaal7076">
+                <a class="btn-youtube" href="https://www.youtube.com/watch?v=Gbx7tQ-XY4s&t=9s&ab_channel=SYAKAKONSTRUKSI">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-youtube fs-3 pt-2 me-2"></i>Youtube</p>
                 </a>
             </div>
@@ -200,10 +200,10 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <a class="btn-ig" href="https://www.instagram.com/syakadesign21/">
+                <a class="btn-ig" href="https://www.instagram.com/p/DAAUYTdyiAs/?img_index=1">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-instagram fs-3 pt-2 me-2"></i>Instagram</p>
                 </a>
-                <a class="btn-facebook" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID">
+                <a class="btn-facebook" href="https://web.facebook.com/photo.php?fbid=465156819362906&set=pb.100076057749835.-2207520000&type=3">
                     <p class="fs-5 fw-bold text-center"><i class="fab fa-facebook fs-3 pt-2 me-2"></i>Facebook</p>
                 </a>
                 <a class="btn-youtube" href="https://www.youtube.com/@syakaal7076">

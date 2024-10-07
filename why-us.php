@@ -77,7 +77,7 @@
                     </div>
                     <div class="col-12">
                         <div class="ms-4">
-                            <a class="btn btn-ijo rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Shaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Lakukan Pemesanan</a>
+                            <a class="btn btn-ijo rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Shaka+Konstruksi%2C+boleh+saya+memesan+disain+bangunan%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Lakukan Pemesanan</a>
                         </div>
                     </div>
                 </div>

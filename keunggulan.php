@@ -41,7 +41,7 @@
                                 <div style="text-align: justify;">
                                     <p class="mb-4 text-light">Kami menyediakan layanan Konsultasi GRATIS selama 24 jam untuk Perencanaan Desain dan Konstruksi. Lingkup layanan Konsultasi desain yang kami sediakan meliputi: Desain Rumah, Masjid, Sekolah, Hotel, Villa, Store dan Lain-lain. </p>
                                     <p class="mb-4 text-light">Selain itu, Anda juga dapat Berkonsultasi dengan kami seputar Kegiatan Konstruksi, silahkan hubungi kami jika anda berminat.</p>
-                                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                    <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                                 </div>
                             </div>
                         </div>
@@ -60,10 +60,10 @@
                                     <p class="mb-4 text-light">Jasa arsitek kami sangat responsif dan kooperatif. Kami dengan sabar akan mendengarkan semua pertanyaan, masukan dan semua komentar anda saat melakukan proses desain.</p>
                                 </div>
                                 <div style="text-align: justify;">
-                                    <p class="mb-4 text-light">Jasa arsitek kami sangat responsif dan kooperatif. Kami dengan sabar akan mendengarkan semua pertanyaan, masukan dan semua komentar anda saat melakukan proses pemesanan desain.</p>
+                                    <p class="mb-4 text-light">Kami siap melayani anda 24 jam kapanpun dan dimanapun, karena kepuasan anda adalah prioritas kami.
                                 </div>
 
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                                     <h8 class="text-light">Tim konten Kreator & Desain grafis</h8>
                                 </p>
 
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                                 <div style="text-align: justify;">
                                     <p class="mb-4 text-light">Syaka Design Konstruksi melakukan pelayanan ke seluruh indonesia, karena tim Syaka Design Konstruksi tersebar hampir di seluruh indonesia. Mulai dari Jawa,Bali,Lombok dan lain-lain.</p>
                                 </div>
-                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
+                                <a class="btn btn-success rounded-pill py-2 px-4" href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                             </div>
                         </div>
                     </div>

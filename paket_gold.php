@@ -47,7 +47,7 @@
             const email = document.getElementById('email').value;
             const message = document.getElementById('message').value;
 
-            const url = "https://web.whatsapp.com/send?phone=6285339913626&text=Hallo%20Syaka%20Desain%20Konstruksi%0APAKET%20GOLD%0ASaya%20*" + name + "*%0AAlamat%20*" + email + "*%0A%0A*" + message + "*";
+            const url = "https://web.whatsapp.com/send?phone=6281932148688&text=Hallo%20Syaka%20Desain%20Konstruksi%0APAKET%20GOLD%0ASaya%20*" + name + "*%0AAlamat%20*" + email + "*%0A%0A*" + message + "*";
 
             window.open(url);
 

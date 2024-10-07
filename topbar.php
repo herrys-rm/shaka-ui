@@ -3,7 +3,7 @@
         <div class="col-lg-7 px-5 text-start">
             <div class="h-100 d-inline-flex align-items-center py-3 me-3">
                 <a class="text-body px-2" href="tel:+0123456789"><i class="fa fa-phone-alt text-primary me-2"></i>+6281932148688</a>
-                <a class="text-body px-2" href="mailto:info@example.com"><i class="fa fa-envelope-open text-primary me-2"></i>syakadesign@example.com</a>
+                <a class="text-body px-2" href="mailto:info@example.com"><i class="fa fa-envelope-open text-primary me-2"></i>syakajulfan@gmail.com</a>
             </div>
         </div>
         <div class="col-lg-5 px-5 text-end">

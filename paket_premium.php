@@ -12,7 +12,7 @@
 
 
 <body>
-    <div class="container py-5">
+    <div class="container py-5 ">
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h1 class="text-dark mb-5">
@@ -47,7 +47,7 @@
             const email = document.getElementById('email').value;
             const message = document.getElementById('message').value;
 
-            const url = "https://web.whatsapp.com/send?phone=6285339079276&text=Hallo%20Syaka%20Desain%20Konstruksi%0APAKET%20PREMIUM%0ASaya%20*" + name + "*%0AAlamat%20*" + email + "*%0A%0A*" + message + "*";
+            const url = "https://web.whatsapp.com/send?phone=6281932148688&text=Hallo%20Syaka%20Desain%20Konstruksi%0APAKET%20PREMIUM%0ASaya%20*" + name + "*%0AAlamat%20*" + email + "*%0A%0A*" + message + "*";
 
             window.open(url);
 

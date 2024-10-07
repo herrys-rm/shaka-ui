@@ -88,7 +88,7 @@
                                         </div>
                                         <div class="ms-4">
                                             <p class="mb-2">Email</p>
-                                            <h3 class="mb-0">info@example.com</h3>
+                                            <h3 class="mb-0">syakajulfan@gmail.com</h3>
                                         </div>
                                     </div>
                                 </div>

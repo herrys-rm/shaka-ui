@@ -6,12 +6,11 @@
                 <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jl. Sawing No.RT19, Majidi, Kec. Selong, Kabupaten Lombok Timur, Nusa Tenggara Barat. 83619</h3>
                 </p>
                 <p class="mb-2"><i class="fa fa-phone-alt text-primary me-3"></i>+62 819-3214-8688</p>
-                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>syakadesign@example.com</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>syakajulfan@gmail.com</p>
                 <div class="d-flex pt-2">
-                    <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i></a>
-                    <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-square btn-outline-body me-1" href="https://web.facebook.com/profile.php?id=100076057749835&locale=id_ID"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-square btn-outline-body me-1" href="https://www.youtube.com/@syakaal7076"><i class="fab fa-youtube"></i></a>
+                    <a class="btn btn-square btn-outline-body me-0" href="https://www.instagram.com/syakadesign21/"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
