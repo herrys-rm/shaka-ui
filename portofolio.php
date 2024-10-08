@@ -79,14 +79,12 @@
                 <div class="portfolio-content h-100">
                   <img src="<?php echo $image_path; ?>" class="img-fluid" alt="<?php echo $image_title; ?>">
                   <div class="portfolio-info">
-                    <h4><?php echo $image_title; ?></h4>
+                    <h4 class="bg-success text-light"><?php echo $image_title; ?></h4>
                     <p><?php echo $img_desc; ?></p>
                     <a href="<?php echo $image_path; ?>" title="<?php echo $image_title; ?>" data-gallery="portfolio-gallery-<?php echo $row['category']; ?>" class="glightbox preview-link">
                       <i class="bi bi-zoom-in"></i>
                     </a>
-                    <a href="portfolio-details.php?id=<?php echo $image_id; ?>" title="More Details" class="details-link">
-                      <i class="bi bi-link-45deg"></i>
-                    </a>
+
                   </div>
                 </div>
               </div><!-- End Projects Item -->
