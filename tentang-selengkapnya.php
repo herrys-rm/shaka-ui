@@ -120,7 +120,7 @@
                                     <i class="flaticon-worker"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">109</h2>
+                                    <h2 data-toggle="counter-up">40</h2>
                                     <p>Para Pekerja Kami </p>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                                     <i class="flaticon-crane"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">232</h2>
+                                    <h2 data-toggle="counter-up">10</h2>
                                     <p>Project sedang berjalan</p>
                                 </div>
                             </div>

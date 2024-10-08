@@ -1,6 +1,6 @@
 <div class="container-xxl py-5">
     <div class="container pt-5">
-        <h1 class="text-success text-center">Mengapa Pilih Kami !</h1>
+        <h1 class="text-success text-center">Mengapa Pilih Kami ?</h1>
         <div class="row g-4 mt-5">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="fact-item text-center bg-dark h-100 p-5 pt-0" style="border-radius: 10px;">
