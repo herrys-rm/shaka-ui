@@ -10,6 +10,18 @@
 
     <?php require_once 'assets.php' ?>
 
+    <style>
+        .fact-item .icon-pilih {
+            width: 120px;
+            height: 120px;
+            align-items: center;
+            justify-content: center;
+            display: inline-flex;
+            border-radius: 50%;
+            /* border-radius: 50%; */
+            background-color: #198754 !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -39,8 +51,8 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/6.jpg" alt="">
-                        <img class="img-fluid" src="img/about-2.jpg" alt="">
+                        <img class="img-fluid" src="img/uu2.jpg" alt="">
+                        <img class="img-fluid" src="img/uu2.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -87,11 +99,20 @@
         </div>
     </div>
 
+    <div class="container-xxl py-1 bg-success mb-3">
+        <div class="py-3 text-center">
+            <h1>Visi</h1>
+            <p class="text-light fs-5">Menjadi Salah Satu Perusahaan Desain dan Perancangan Bangunan Terbaik Di Indonesia </p>
+            <h1>Misi</h1>
+            <p class="fs-5" style="text-transform: capitalize; color: white;">berkomitment untuk menyediakan layanan jasa dalam bidang desain perencanaan dengan kualitas terbaik serta berorientasi pada kepuasan client kami </p>
+        </div>
+    </div>
+
     <!--  -->
-    <div class="container-xxl py-1">
+    <div class="container-xxl py-1 ">
         <div class="fact">
             <div class="container-fluid">
-                <div class="row counters">
+                <div class="row counter">
                     <div class="col-md-6 fact-left wow slideInLeft">
                         <div class="row">
                             <div class="col-6">
@@ -142,15 +163,16 @@
     </div>
     <!--  -->
 
+    <?php require_once 'pilihkami.php' ?>
+    <br><br>
 
 
-    <!-- Page Header Start -->
-    <?php require_once 'team-pro.php' ?>
-    <!-- Page Header End -->
 
     <!-- Page Header Start -->
     <?php require_once 'sertivvikat.php' ?>
     <!-- Page Header End -->
+
+
 
 
     <br><br>

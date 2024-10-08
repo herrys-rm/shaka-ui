@@ -16,7 +16,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Julfan syaka alwandi</h3>
-                        <span class="text-primary">CEO Syaka Konstruksi</span>
+
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Nurlaily rizki,S.Pd</h3>
-                        <span class="text-primary">Direktur Syaka Konstruksi</span>
+
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Agus supriadi,ST</h3>
-                        <span class="text-primary">Tim civil enginering</span>
+
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Novisawali satria</h3>
-                        <span class="text-primary">Supervisor finishing</span>
+
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Rifan taftazani</h3>
-                        <span class="text-primary">Drafter architect</span>
+
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Arif ridho firmansyah</h3>
-                        <span class="text-primary">Enginering drafter</span>
+
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">M.Septian akbar</h3>
-                        <span class="text-primary">Drafter junior</span>
+
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Nuzulul karyawan</h3>
-                        <span class="text-primary">Supervisor struktur</span>
+
                     </div>
                 </div>
             </div>
@@ -136,7 +136,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">M.Syarif <br>hidayatulloh,S.Ars</h3>
-                        <span class="text-primary">Tim architect</span>
+
                     </div>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">Septiana Sukmayanti,A.Md.Ak.</h3>
-                        <span class="text-primary">Administrasi project</span>
+
                     </div>
                 </div>
             </div>
@@ -164,7 +164,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h3 class="mt-2">LALU MOH.Ardian <br>saputra</h3>
-                        <span class="text-primary">Drafter struktur</span>
+
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
                     </div>
                     <div class="bg-light text-center p-4">
                         <h2 class="mt-2">Saiful bahri</h2>
-                        <span class="text-primary">Tim konten kreator & desain grafis</span>
+
                     </div>
                 </div>
             </div>

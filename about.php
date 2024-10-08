@@ -3,8 +3,8 @@
         <div class="row g-5">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img">
-                    <img class="img-fluid" src="img/uc2.jpg" alt="">
-                    <img class="img-fluid" src="img/u2.png" alt="">
+                    <img class="img-fluid rounded-circle" style="border: 5px #fff solid;" src="img/uc2.jpg" alt="">
+                    <img class="img-fluid rounded-circle" src="img/u2.png" alt="" style="border: 5px #fff solid;">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -17,7 +17,7 @@
                     <p class="mb-4 text-light">memberikan pelayanan yang total kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien.</p>
                 </div>
                 <div class="d-flex align-items-center mb-3">
-                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-light" style="width: 120px; height: 120px;">
+                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-light rounded-circle" style="width: 120px; height: 120px;">
                         <h1 class="display-1 text-light mb-n2 text-success" data-toggle="counter-up">5</h1>
                     </div>
                     <div class="ps-4 text-light ">

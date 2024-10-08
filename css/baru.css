@@ -40,9 +40,9 @@
     color: #198754;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
     #nama-perusahaan {
-        font-size: 16px !important;
+        font-size: 24px !important;
         margin-top: 10px !important;
     }
 

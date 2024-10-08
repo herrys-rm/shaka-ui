@@ -33,7 +33,7 @@ if ($title_result->num_rows > 0) {
 
 <nav class="navbar navbar-expand-lg bg-navbar navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
     <a href="#" class="navbar-brand ms-4 ms-lg-0">
-        <h1 class="text-text-light m-0"><img class="me-3" src="<?php echo $logo_path; ?>" alt="Icon"><?php echo $title_name; ?></h1>
+        <h1 class="text-text-light m-0" id="nama-perusahaan"><img class="me-3" src="<?php echo $logo_path; ?>" alt="Icon"><?php echo $title_name; ?></h1>
     </a>
     <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
