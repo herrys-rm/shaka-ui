@@ -103,7 +103,7 @@
 
             <!-- Google Map Start -->
             <div class="container-xxl pt-5 px-0 wow fadeIn" data-wow-delay="0.1s">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.289423536706!2d116.52141787321203!3d-8.66400088816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc4fa0d9e0b415%3A0xaedfe338814df116!2sSyaka%20Design%20Kontruksi!5e0!3m2!1sid!2sid!4v1728175414081!5m2!1sid!2sid" width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.289423536706!2d116.52141787321203!3d-8.66400088816764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc4fa0d9e0b415%3A0xaedfe338814df116!2sSyaka%20Design%20Kontruksi!5e0!3m2!1sid!2sid!4v1728175414081!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <!-- Google Map End -->
 
