@@ -68,7 +68,7 @@
 
                     <div class="d-flex align-items-center mb-2">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-dark" style="width: 120px; height: 120px;">
-                            <h1 class="display-1 text-dark mb-n2 text-success" data-toggle="counter-up">5</h1>
+                            <h1 class="display-1 text-dark mb-n2 text-success" data-toggle="counter-up">7</h1>
                         </div>
                         <div class="ps-4 ">
                             <h3>Tahun</h3>
@@ -166,7 +166,9 @@
     <?php require_once 'pilihkami.php' ?>
     <br><br>
 
-
+    <!-- Page Header Start -->
+    <?php require_once 'team-pro.php' ?>
+    <!-- Page Header End -->
 
     <!-- Page Header Start -->
     <?php require_once 'sertivvikat.php' ?>

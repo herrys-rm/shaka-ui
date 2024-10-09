@@ -135,7 +135,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">M.Syarif <br>hidayatulloh,S.Ars</h3>
+                        <h3 class="mt-2">M.Syarif Hidayatulloh,S.Ars</h3>
 
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">Septiana Sukmayanti,A.Md.Ak.</h3>
+                        <h4 class="mt-2">Septiana Sukmayanti,A.Md.Ak.</h4>
 
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h3 class="mt-2">LALU MOH.Ardian <br>saputra</h3>
+                        <h3 class="mt-2">LALU MOH.Ardian Saputra</h3>
 
                     </div>
                 </div>
@@ -177,7 +177,8 @@
                         </div>
                     </div>
                     <div class="bg-light text-center p-4">
-                        <h2 class="mt-2">Saiful bahri</h2>
+                        <h3 class="mt-2">Saipul Bahri</h3>
+
 
                     </div>
                 </div>

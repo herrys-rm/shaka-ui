@@ -18,7 +18,7 @@
                 </div>
                 <div class="d-flex align-items-center mb-3">
                     <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-light rounded-circle" style="width: 120px; height: 120px;">
-                        <h1 class="display-1 text-light mb-n2 text-success" data-toggle="counter-up">5</h1>
+                        <h1 class="display-1 text-light mb-n2 text-success" data-toggle="counter-up">7</h1>
                     </div>
                     <div class="ps-4 text-light ">
                         <h3 class="text-light">Tahun</h3>
