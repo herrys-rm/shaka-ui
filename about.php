@@ -4,7 +4,7 @@
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img">
                     <img class="img-fluid rounded-circle" style="border: 5px #fff solid;" src="img/uc2.jpg" alt="">
-                    <img class="img-fluid rounded-circle" src="img/u2.png" alt="" style="border: 5px #fff solid;">
+                    <img class="img-fluid rounded-circle" src="img/uc2.jpg" alt="" style="border: 5px #fff solid;">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
