@@ -1,0 +1,63 @@
+/* .carousel-item {
+    height: 500px;
+}
+
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+} */
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #212529;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    background: none !important;
+}
+
+.btn-ig {
+    color: #C13584;
+}
+
+.btn-facebook {
+    color: #405DE6;
+}
+
+.btn-youtube {
+    color: #FD1D1D;
+}
+
+.btn-ijo {
+    background-color: #fff;
+    color: #198754;
+    font-weight: bold;
+}
+
+.btn-ijo:hover {
+    background-color: #000;
+    color: #198754;
+}
+
+/* @media (max-width: 480px) {
+    #nama-perusahaan {
+        font-size: 24px !important;
+        margin-top: 10px !important;
+    }
+
+    .carousel-item {
+        height: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel-item {
+        height: 300px;
+    }
+}
+
+.zoom-icon:hover {
+    color: #198754;
+    font-weight: bold;
+} */
