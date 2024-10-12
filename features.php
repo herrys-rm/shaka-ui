@@ -6,7 +6,7 @@
                     <div class="fact-icon">
                         <img src="img/icons/jawa.png" alt="Icon">
                     </div>
-                    <h2 class="mb-3">Jawa</h2>
+                    <h3 class="mb-3">Jawa</h2>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -14,7 +14,7 @@
                     <div class="fact-icon ">
                         <img src="img/icons/bali.png" alt="Icon">
                     </div>
-                    <h2 class="mb-3">Bali</h2>
+                    <h3 class="mb-3">Bali</h2>
 
                 </div>
             </div>
@@ -23,7 +23,7 @@
                     <div class="fact-icon">
                         <img src="img/icons/lombok.png" alt="Icon">
                     </div>
-                    <h2 class="mb-3">Lombok</h2>
+                    <h3 class="mb-3">Lombok</h2>
 
                 </div>
             </div>

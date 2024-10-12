@@ -1,8 +1,8 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h1 class="display-4 mb-4 text-primary">Service</h1>
-            <p class="mb-0">Service yang kami tawarkan untuk memberikan kepuasan kepada anda
+            <h4 class="section-title">Layanan Kami</h4>
+            <h1 class="display-5 mb-4 text-dark">Kami Berfokus Pada Arsitektur Modern Dan Desain Interior</h1>
             </p>
         </div>
         <div class="row g-4">

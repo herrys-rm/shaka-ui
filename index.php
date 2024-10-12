@@ -39,7 +39,7 @@
 
 
     <!-- Service Start -->
-    <?php require_once 'about.php' ?>
+    <!-- <?php require_once 'about.php' ?> -->
     <!-- Service End -->
 
     <!-- Service Start -->
