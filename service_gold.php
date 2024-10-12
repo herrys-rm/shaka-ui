@@ -1,67 +1,74 @@
-<div class="container-xxl py-5 bg-dark">
+<div class="container-xxl py-5">
     <div class="container">
-        <div class="text-center mx-auto mb-5 row fadeInUp d-flex" data-wow-delay="0.1s">
-            <div class="col-lg-6">
-                <h1 class="mb-4 display-4 text-primary" style="text-align: left !important;">Our Service</h1>
-            </div>
-            <div class="col-lg-6">
-                <p class="mb-0" style="text-align: left !important;">Service yang kami tawarkan untuk memberikan kepuasan kepada anda</p>
-            </div>
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <h4 class="section-title">Layanan Kami</h4>
+            <h1 class="display-5 mb-4 text-dark">Kami Berfokus Pada Arsitektur Modern Dan Desain Interior</h1>
+            </p>
         </div>
         <div class="row g-4">
-            <div class="col-lg-4">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/rumah.jpg" alt="">
+                    <div class=" service-text p-5">
+                        <img class="mb-4" src="img/icons/house.png" alt="Icon">
+                        <h3 class="mb-3">Desain Rumah</h3>
+                        <p class="mb-4">Disain rumah impian anda bersama dengan kami</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalRumah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/masjid.jpg" alt="">
+                    <div class="service-text p-5">
+                        <img class="mb-4" src="img/icons/mosque.png" alt="Icon">
+                        <h3 class="mb-3">Desain Masjid</h3>
+                        <p class="mb-4">Disain Masjid Dan Tempat ibadah anda seperti yang anda inginkan</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalMasjid"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/sekolah1.jpg" alt="">
+                    <div class="service-text p-5">
+                        <img class="mb-4" src="img/icons/building.png" alt="Icon">
+                        <h3 class="mb-3">Desain Sekolah</h3>
+                        <p class="mb-4">Disain Sekolah Anda Dengan Disain Yang Menarik</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalSekolah"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/interior.jpg" alt="">
+                    <div class="service-text p-5">
+                        <img class="mb-4" src="img/icons/interior21.png" alt="Icon">
+                        <h3 class="mb-3">Desain Interior</h3>
+                        <p class="mb-4">Interior Rumah Anda Membosankan, Kami Solusinya</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalInterior"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/cover.jpg" alt="">
+                    <div class="service-text p-5">
+                        <img class="mb-4" src="img/icons/hotel.png" alt="Icon">
+                        <h3 class="mb-3">Desain Hotel dan Villa</h3>
+                        <p class="mb-4">Disain Hotel dan Villa Yang Anda inginkan Bersama Kami</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalHotel"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item d-flex position-relative text-center h-100">
+                    <img class="bg-img" src="img/store.jpg" alt="">
+                    <div class="service-text p-5">
+                        <img class="mb-4" src="img/icons/store.png" alt="Icon">
+                        <h3 class="mb-3">Desain Store</h3>
+                        <p class="mb-4">Disain Ruko Anda Bersama Kami, Pasti Lebih Menarik</p>
+                        <a class="btn" data-bs-toggle="modal" data-bs-target="#modalStore"><i class="fa fa-plus text-primary me-3"></i>Lihat Detail</a>
                     </div>
                 </div>
             </div>

@@ -46,7 +46,7 @@
     <?php require_once 'keunggulan.php' ?>
     <!-- Service End -->
 
-
+    <?php require_once 'service_gold.php' ?>
     <!-- Service Start -->
     <?php require_once 'service.php' ?>
     <!-- Service End -->
