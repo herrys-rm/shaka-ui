@@ -167,10 +167,6 @@
     <br><br>
 
     <!-- Page Header Start -->
-    <?php require_once 'team-pro.php' ?>
-    <!-- Page Header End -->
-
-    <!-- Page Header Start -->
     <?php require_once 'sertivvikat.php' ?>
     <!-- Page Header End -->
 

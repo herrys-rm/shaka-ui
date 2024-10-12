@@ -21,4 +21,15 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <!-- Template Stylesheet -->
 <link href="css/style.css" rel="stylesheet">
+<link href="css/baru.css" rel="stylesheet">
 <!-- <link rel="stylesheet" href="css/baru.css"> -->
+
+<style>
+    .text-service {
+        background-color: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+    }
+</style>

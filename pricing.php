@@ -1,4 +1,4 @@
-<div class="container-fluid features bg-light py-5">
+<div class="container-fluid features bg-light py-5 bg-dark ">
 	<div class="container py-5">
 		<div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
 			<!-- <h4 class="text-primary">Paket Harga</h4> -->
@@ -31,8 +31,10 @@
 					</ul>
 
 					</p>
-					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
-					<a class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="text-primary me-3"></i>Lihat Detail</a>
+					<div class="d-flex">
+						<a class="btn btn-success rounded-pill py-2 px-4" href="paket_basic.php">Pesan</a>
+						<a class="btn btn-outline-success rounded-pill py-2 px-4 ms-2" data-bs-toggle="modal" data-bs-target="#modalDetail">Lihat Detail</a>
+					</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -58,8 +60,10 @@
 						<li class="list-group-item"><br></li>
 					</ul>
 					</p>
-					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_premium.php">Pesan</a>
-					<a class="btn btn-info" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class=" text-primary me-3"></i>Lihat Detail</a>
+					<div class="d-flex">
+						<a class="btn btn-success rounded-pill py-2 px-4" href="paket_premium.php">Pesan</a>
+						<a class="btn btn-outline-success rounded-pill py-2 px-4 ms-2" data-bs-toggle="modal" data-bs-target="#modalDetail">Lihat Detail</a>
+					</div>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
@@ -89,8 +93,10 @@
 
 
 					</p>
-					<a class="btn btn-success rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
-					<a class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modalDetail"><i class="rounded-pill text-primary me-3"></i>Lihat Detail</a>
+					<div class="d-flex">
+						<a class="btn btn-success rounded-pill py-2 px-4" href="paket_gold.php">Pesan</a>
+						<a class="btn btn-outline-success rounded-pill py-2 px-4 ms-2" data-bs-toggle="modal" data-bs-target="#modalDetail">Lihat Detail</a>
+					</div>
 
 				</div>
 			</div>
