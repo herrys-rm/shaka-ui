@@ -42,18 +42,25 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
-                <div class="col-lg-5 wow fadeIn d-flex justify-content-center align-items-center" data-wow-delay="0.1s" style="height: 100%;">
-                    <img class="img-fluid" src="img/bootstrap-logo.png" alt="" style="max-height: 50%; max-width: 50%; height: auto;">
+                <div class="col-lg-4 wow fadeIn d-flex justify-content-center align-items-center" data-wow-delay="0.1s" style="height: 100%;">
+                    <img class="img-fluid" src="img/icons/sakha.png" alt="" style="max-height: 100%; max-width: 100%; height: auto;">
                 </div>
-                <div class="col-lg-7 wow fadeIn d-flex align-items-center" data-wow-delay="0.5s">
+                <div class="col-lg-8 wow fadeIn d-flex align-items-center" data-wow-delay="0.5s">
                     <div>
                         <h4 class="section-title">Syaka Design Konstruksi</h4>
-                        <h1 class="display-5 mb-4 text-dark">Kualitas dan Inovasi di Setiap Proyek</h1>
-                        <p>Syaka Design Konstruksi merupakan perusahaan yang bergerak di bidang jasa desain bangunan(Arsitek) dan pelaksanaan pembangunan properti. Didirikan pada tanggal 15 Oktober 2018 oleh seorang pemuda yang bernama <strong>Julfan Syaka Alwandi</strong> yang sekaligus menjadi Owner sampai saat ini .</p>
-                        <p class="mb-4"><strong>Syaka Design Konstruksi</strong> menerima / melayani jasa arsitek, contohnya seperti pembuatan desain rumah tinggal / hunian, desain villa, desain sekolah, desain gedung, desain perkantoran, desain tempat ibadah, desain kos-kosan, desain tempat wisata dan lain sebagainya. Untuk jasa desain arsitek kami melayani sampai se-indonesia secara online, dan untuk pembuatan dan pelaksanaan pembangunannya kami hanya melayani di sekitar pulau lombok NTB . </p>
+                        <h1 class="display-5 mb-4 text-dark">Syaka Design Konstruksi</h1>
+                        <div style="text-align: justify;">
+                            <p>Syaka Design Konstruksi merupakan perusahaan yang bergerak di bidang jasa desain bangunan(Arsitek) dan pelaksanaan pembangunan properti. Syaka Design Konstruksi berdiri pada tanggal 15 Oktober 2018 dan didirikan oleh seorang pemuda yang bernama
+                                JULFAN SYAKA ALWANDI yang sekaligus menjadi Owner sampai saat ini.</p>
+                        </div>
+                        <div style="text-align: justify;">
+                            <p class="mb-4">SYAKA DESIGN KONSTRUKSI menerima/melayani jasa arsitek, contohnya seperti pembuatan desain rumah tinggal/hunian, desain villa, desain sekolah, desain gedung, desain perkantoran, desain tempat ibadah, desain kos-kosan, desain tempat wisata dan lain sebagainya. Untuk jasa desain arsitek kami melayani sampai KE-Seluruh Indonesia secara online, dan untuk pembuatan dan pelaksanaan pembangunannya kami hanya melayani di sekitar pulau lombok NTB. </p>
+                        </div>
+
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- About End -->
@@ -74,6 +81,7 @@
     <!--  -->
 
     <!--  -->
+    <?php require_once 'grafik.php' ?>
 
     <?php require_once 'pilihkami.php' ?>
     <br><br>

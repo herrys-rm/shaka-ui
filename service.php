@@ -5,7 +5,7 @@
                 <h1 class="mb-4 display-4 text-primary" style="text-align: left !important;">Our Service</h1>
             </div>
             <div class="col-lg-6">
-                <p class="mb-0" style="text-align: left !important;">Service yang kami tawarkan untuk memberikan kepuasan kepada anda</p>
+                <p class="mb-0 text-light" style="text-align: left !important;">Service yang kami tawarkan untuk memberikan kepuasan kepada anda sebagai pelanggan kami </p>
             </div>
         </div>
         <div class="row g-4">
