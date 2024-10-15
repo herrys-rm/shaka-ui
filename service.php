@@ -21,7 +21,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Skandinavians</p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Modern Minimalis</p>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Kontenporer</p>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Modern</p>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Modern Tropis</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <div class="card">
                     <img src="img/rumah.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Desain </p>
                     </div>
                 </div>
             </div>

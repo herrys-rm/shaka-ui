@@ -27,7 +27,7 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg"
+                                    <img class="position-absolute img-fluid w-100 h-100" src="img/kon.jpg"
                                         style="object-fit: cover;" alt="">
                                 </div>
                             </div>
@@ -54,7 +54,7 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="img/project-2.jpg"
+                                    <img class="position-absolute img-fluid w-100 h-100" src="img/past.jpeg"
                                         style="object-fit: cover;" alt="">
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="img/project-3.jpg"
+                                    <img class="position-absolute img-fluid w-100 h-100" src="img/timke.jpg"
                                         style="object-fit: cover;" alt="">
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
                         <div class="row g-4">
                             <div class="col-md-6" style="min-height: 350px;">
                                 <div class="position-relative h-100">
-                                    <img class="position-absolute img-fluid w-100 h-100" src="img/project-4.jpg"
+                                    <img class="position-absolute img-fluid w-100 h-100" src="img/indo.jpg"
                                         style="object-fit: cover;" alt="">
                                 </div>
                             </div>
