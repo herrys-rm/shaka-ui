@@ -1,18 +1,20 @@
 <div class="container">
-    <div class="row g-5">
+    <div class="row g-5 my-3">
         <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="feature-img">
+            <!-- <div class="feature-img">
                 <img class="img-fluid" src="img/about-2.jpg" alt="">
                 <img class="img-fluid" src="img/about-1.jpg" alt="">
-            </div>
+            </div> -->
+            <h1 class="mb-2 display-4 text-primary">Prosedur</h1>
+            <h1 class="display-5 mb-4 text-dark">Tahap Pembayaran Desain Bangunan!</h1>
+            <div class="garis-bawah"></div>
+            <h4 class="mt-2">Gratis Konsultasi</h4>
         </div>
         <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.1s">
-            <h4 class="section-title">Prosedur!</h4>
-            <h1 class="display-5 mb-4 text-dark">Tahap Pembayaran Desain Bangunan!</h1>
             <div class="row g-4">
                 <div class="col-12">
                     <div class="d-flex align-items-start">
-                        <p><i class="fas fa-people-carry text-primary  me-3"></i></p>
+                        <p><i class="fa fa-check text-primary me-3"></i></p>
                         <div class="ms-4">
                             <h3>Tahap Negosiasi Harga (Sampai Deal)</h3>
                         </div>

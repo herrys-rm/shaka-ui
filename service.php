@@ -1,4 +1,4 @@
-<div class="container-xxl py-5 bg-dark">
+<div class="container-xxl py-5" style="background-color: #000;">
     <div class="container">
         <div class="text-center mx-auto mb-5 row fadeInUp d-flex" data-wow-delay="0.1s">
             <div class="col-lg-6">

@@ -1,6 +1,6 @@
 <p></p>
 <!-- portofolio -->
-<section id="projects" class="projects bg-dark">
+<section id="projects" class="projects" style="background-color: #000;">
     <div class="container" data-aos="fade-up">
 
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"

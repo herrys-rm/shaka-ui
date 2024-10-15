@@ -1,4 +1,4 @@
-<div class="container-xxl project py-5 bg-dark">
+<div class="container-xxl project py-5" style="background-color: #000;">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
 

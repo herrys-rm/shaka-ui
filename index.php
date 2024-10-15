@@ -8,7 +8,14 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
     <?php require_once 'assets.php' ?>
+    <style>
+        .garis-bawah {
+            width: 50%;
+            height: 3px;
+            background-color: #198754;
 
+        }
+    </style>
 </head>
 
 <body class="index-page">
@@ -42,7 +49,7 @@
     <!-- <?php require_once 'about.php' ?> -->
     <!-- Service End -->
 
-    
+
 
     <!-- Service Start -->
     <?php require_once 'keunggulan.php' ?>

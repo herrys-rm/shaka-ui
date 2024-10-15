@@ -1,9 +1,9 @@
-<div class="container-fluid features bg-light py-5 bg-dark ">
+<div class="container-fluid features py-5" style="background-color: #000;">
 	<div class="container py-5">
 		<div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
 			<!-- <h4 class="text-primary">Paket Harga</h4> -->
 			<h1 class="display-4 mb-4 text-primary">Paket Harga</h1>
-			<p class="mb-0">Kami menawarkan berbagai pilihan layanan desain arsitektur yang dirancang untuk membantu mewujudkan impian bangunan Anda. Pilih paket yang paling sesuai dengan kebutuhan Anda dan dapatkan hasil yang memuaskan.
+			<p class="mb-0 text-light">Kami menawarkan berbagai pilihan layanan desain arsitektur yang dirancang untuk membantu mewujudkan impian bangunan Anda. Pilih paket yang paling sesuai dengan kebutuhan Anda dan dapatkan hasil yang memuaskan.
 			</p>
 		</div>
 		<div class="row g-4">
