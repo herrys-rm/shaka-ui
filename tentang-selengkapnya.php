@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-4 wow fadeIn d-flex justify-content-center align-items-center" data-wow-delay="0.1s" style="height: 100%;">
-                    <img class="img-fluid" src="img/icons/sakha.png" alt="" style="max-height: 100%; max-width: 100%; height: auto;">
+                    <img class="img-fluid" src="img/sakha.png" alt="" style="max-height: 100%; max-width: 100%; height: auto;">
                 </div>
                 <div class="col-lg-8 wow fadeIn d-flex align-items-center" data-wow-delay="0.5s">
                     <div>
