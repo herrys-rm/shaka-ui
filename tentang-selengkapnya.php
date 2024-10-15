@@ -47,14 +47,19 @@
                 </div>
                 <div class="col-lg-8 wow fadeIn d-flex align-items-center" data-wow-delay="0.5s">
                     <div>
-                        <h4 class="section-title">Syaka Design Konstruksi</h4>
-                        <h1 class="display-5 mb-4 text-dark">Syaka Design Konstruksi</h1>
+                        <h1 class="mb-2 display-4 text-primary">Syaka Design Konstruksi</h1>
                         <div style="text-align: justify;">
                             <p>Syaka Design Konstruksi merupakan perusahaan yang bergerak di bidang jasa desain bangunan(Arsitek) dan pelaksanaan pembangunan properti. Syaka Design Konstruksi berdiri pada tanggal 15 Oktober 2018 dan didirikan oleh seorang pemuda yang bernama
                                 JULFAN SYAKA ALWANDI yang sekaligus menjadi Owner sampai saat ini.</p>
                         </div>
                         <div style="text-align: justify;">
                             <p class="mb-4">SYAKA DESIGN KONSTRUKSI menerima/melayani jasa arsitek, contohnya seperti pembuatan desain rumah tinggal/hunian, desain villa, desain sekolah, desain gedung, desain perkantoran, desain tempat ibadah, desain kos-kosan, desain tempat wisata dan lain sebagainya. Untuk jasa desain arsitek kami melayani sampai KE-Seluruh Indonesia secara online, dan untuk pembuatan dan pelaksanaan pembangunannya kami hanya melayani di sekitar pulau lombok NTB. </p>
+                        </div>
+                        <div style="text-align: justify;">
+                            <p class="mb-4">SYAKA DESIGN KONSTRUKSI mempunyai tim-tim yang profesional di bidangnya seperti tim arsitek yang berpengalaman dan sudah mempunyai IJAZAH dan SKA, begitu pula dengan tim CIVIL ENGINERING kami, yang mempunyai tim yang berpengalaman dan bisa di percaya untuk membangun/membuat struktur hunian anda, begitu pula dengan tim DRAFTER dan SUPERVISOR.</p>
+                        </div>
+                        <div style="text-align: justify;">
+                            <p class="mb-4">Kami juga melayani desain Interior dan mempunyai tim Interior yang berpengalaman serta mempunyai histori yanga bagus, seperti FURNITURE, SOFA, BACKDROP TV, WALLPANEL, KITCHEN SET, BAR dan lain-lain. Kami memilih Manajemen yang profesional, dan didukung oleh sumber daya manusia yang ahli dibidangnya masing-masing, kami akan memberikan pelayanan total kepada klient dan fast respon sehingga memberikan kepuasan yang maksimal kepada klient.</p>
                         </div>
 
                     </div>
