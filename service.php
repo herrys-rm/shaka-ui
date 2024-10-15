@@ -11,23 +11,24 @@
         <div class="row g-4">
             <div class="col-lg-4">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/SKANDINAVIAN.jpg" alt="" width="100%">
+                    <div class="text-service">
+                        <p class="text-light text-center fs-5 fw-bold">Skandinavian</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <img src="img/service/KLASIK.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Klasik</p>
                     </div>
+
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
-                    <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Skandinavians</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/MINIMALIS MODERN.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Modern Minimalis</p>
                     </div>
@@ -35,7 +36,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/kontemporer.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Kontenporer</p>
                     </div>
@@ -43,7 +44,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/modern.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Modern</p>
                     </div>
@@ -51,7 +52,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/tropis.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Modern Tropis</p>
                     </div>
@@ -59,9 +60,9 @@
             </div>
             <div class="col-lg-3">
                 <div class="card">
-                    <img src="img/rumah.jpg" alt="" width="100%">
+                    <img src="img/service/industri.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Desain </p>
+                        <p class="text-light text-center fs-5 fw-bold">Industri </p>
                     </div>
                 </div>
             </div>
