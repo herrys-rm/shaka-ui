@@ -46,9 +46,9 @@ if ($title_result->num_rows > 0) {
                 <li><a href="tentang-selengkapnya.php" class="<?php if ($current_page == 'tentang-selengkapnya.php') {
                                                                     echo 'active';
                                                                 } ?>">Tentang</a></li>
-                <li><a href="portofolio.php" class="<?php if ($current_page == 'portofolio.php') {
-                                                        echo 'active';
-                                                    } ?>">Portfolio</a></li>
+                <li><a href="https://www.instagram.com/syakadesign21/" class="<?php if ($current_page == 'portofolio.php') {
+                                                                                    echo 'active';
+                                                                                } ?>">Portfolio</a></li>
                 <li><a href="contact.php" class="<?php if ($current_page == 'contact.php') {
                                                         echo 'active';
                                                     } ?>">Kontak</a></li>
