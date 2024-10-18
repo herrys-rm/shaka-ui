@@ -34,7 +34,7 @@
                 <div class="container">
                     <div class="row justify-content-start">
                         <div class="col-10 col-lg-8">
-                            <h1 class="display-1 text-white animated slideInDown">Mendisai Bangunan Baru dan Renovasi</h1>
+                            <h1 class="display-1 text-white animated slideInDown">Mendesain Bangunan Baru dan Renovasi</h1>
                             <p class="fs-5 fw-medium text-white mb-4 pb-3">Mari wujudkan impian anda</p>
                             <a class="btn btn-success py-2 px-4 " href="https://web.whatsapp.com/send/?phone=6281932148688&text=Halo%21+Syaka+Konstruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi Kami</a>
                         </div>

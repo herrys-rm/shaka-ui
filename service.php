@@ -11,7 +11,7 @@
         <div class="row g-4">
             <div class="col-lg-4">
                 <div class="card">
-                    <img src="img/service/scandinavian.jpg" alt="" width="100%">
+                    <img src="img/service/skandinavian'.jpg" alt="" width="100%">
                     <div class="text-service">
                         <p class="text-light text-center fs-5 fw-bold">Skandinavian</p>
                     </div>
@@ -21,7 +21,7 @@
                 <div class="card">
                     <img src="img/service/klasic.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Klasik</p>
+                        <p class="text-light text-center fs-5 fw-bold">Klasik Modern</p>
                     </div>
 
                 </div>
@@ -30,7 +30,7 @@
                 <div class="card">
                     <img src="img/service/modern_minimalis.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Modern Minimalis</p>
+                        <p class="text-light text-center fs-5 fw-bold">Minimalis Modern</p>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                 <div class="card">
                     <img src="img/service/kontenporer.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Kontenporer</p>
+                        <p class="text-light text-center fs-5 fw-bold">Kontemporer</p>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                 <div class="card">
                     <img src="img/service/bon.jpg" alt="" width="100%">
                     <div class="text-service">
-                        <p class="text-light text-center fs-5 fw-bold">Industri </p>
+                        <p class="text-light text-center fs-5 fw-bold">Industrial </p>
                     </div>
                 </div>
             </div>

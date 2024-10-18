@@ -70,7 +70,7 @@
                                 </div>
                                 <div style="text-align: justify;">
                                     <p class="text-light">
-                                        Kami tersedia 24/7 untuk memberikan layanan terbaik di mana saja dan kapan saja. Kepuasan Anda adalah prioritas utama kami, dan kami berkomitmen untuk memberikan hasil yang sesuai harapan.
+                                        Kami tersedia 24 jam untuk memberikan layanan terbaik di mana saja dan kapan saja. Kepuasan Anda adalah prioritas utama kami, dan kami berkomitmen untuk memberikan hasil yang sesuai harapan anda.
                                     </p>
                                 </div>
                             </div>
